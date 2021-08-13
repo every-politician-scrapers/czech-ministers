@@ -7,17 +7,21 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      noko.css('h3').text.tidy
     end
 
     def position
-      noko.css('.position').text.tidy
+      noko.css('.txt').text.tidy
+        .gsub(', Minister', '|Minister')
+        .gsub(' and Minister', '|Minister')
+        .split('|')
+        .map(&:tidy)
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('.record-img')
     end
   end
 end
