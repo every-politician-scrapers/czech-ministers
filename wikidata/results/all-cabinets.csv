@@ -1,5 +1,7 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q109453202,Petr Fiala's Cabinet,,,,,,,,,Q3918409,proposal,,,,,,,,,,
 ,Q12060352,Q12060352,,,,,,,,,Q5015587,Government of the Czech Republic,,,,,,,Q11829744,Q11829744,,
+,Q109453202,Petr Fiala's Cabinet,,,,,,,,,Q5015587,Government of the Czech Republic,,,,,,,,,,
 ,Q11384449,Fourth government of Josef Korčák,1981-06-18,11,,,1986-06-18,11,,,Q5015587,Government of the Czech Republic,,,,,,,Q12060352,Q12060352,,
 ,Q11918698,"Government of Josef Korčák, Ladislav Adamec, František Pitra and Petr Pithart",1986-06-18,11,,,1990-06-29,11,,,Q5015587,Government of the Czech Republic,,,,,,,Q11384449,Fourth government of Josef Korčák,Q11919180,Petr Pithart's Cabinet
 ,Q11919180,Petr Pithart's Cabinet,1990-06-29,11,,,1992-07-02,11,,,Q5015587,Government of the Czech Republic,,,,,,,Q11918698,"Government of Josef Korčák, Ladislav Adamec, František Pitra and Petr Pithart",Q3562014,Václav Klaus' First Cabinet
