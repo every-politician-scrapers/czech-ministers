@@ -12,6 +12,7 @@ class MemberList
 
     def position
       noko.css('.txt').text.tidy
+          .gsub(', from 11 November 2021 in resignation.', '')
           .gsub(', Minister', '|Minister')
           .gsub(' and Minister', '|Minister')
           .split('|')
