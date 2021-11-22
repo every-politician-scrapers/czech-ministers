@@ -1,0 +1,672 @@
+{
+  "title": "Miloš Vystrčil",
+  "pageID": 55598269,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "Civic Democratic Party (Czech Republic) governors",
+    "Civic Democratic Party (Czech Republic) mayors",
+    "Civic Democratic Party (Czech Republic) Senators",
+    "Masaryk University alumni",
+    "Mayors of places in the Czech Republic",
+    "People from Jindřichův Hradec District",
+    "Presidents of the Senate of the Czech Republic"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Miloš Vystrčil (, born 10 August 1960) is a Czech politician serving as the President of the Senate and Senator from Jihlava district.",
+              "links": [
+                {
+                  "text": "Czech",
+                  "type": "internal",
+                  "page": "Czech Republic"
+                },
+                {
+                  "text": "President of the Senate",
+                  "type": "internal",
+                  "page": "President of the Senate of the Czech Republic"
+                },
+                {
+                  "text": "Senator",
+                  "type": "internal",
+                  "page": "Senate of the Czech Republic"
+                },
+                {
+                  "text": "Jihlava district",
+                  "type": "internal",
+                  "page": "Jihlava District"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Miloš Vystrčil"
+                ]
+              }
+            },
+            {
+              "text": "Vystrčil previously served as Mayor of Telč and governor of Vysočina Region.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Telč"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vysočina Region"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Czech politician",
+          "template": "short description"
+        },
+        {
+          "year": "1960",
+          "month": "10",
+          "day": "8",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "transcription": "ˈmɪloʃ ˈvɪstrˌt͡ʃɪl",
+          "template": "ipa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Miloš Vystrčil"
+          },
+          "image": {
+            "text": "Miloš Vystrčil (2021).jpg"
+          },
+          "office": {
+            "text": "President of the Czech Senate",
+            "links": [
+              {
+                "text": "President of the Czech Senate",
+                "type": "internal",
+                "page": "President of the Senate of the Czech Republic"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "19 February 2020"
+          },
+          "predecessor": {
+            "text": "Jaroslav Kubera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jaroslav Kubera"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Governor of Vysočina Region",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vysočina Region"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "7 December 2004"
+          },
+          "term_end1": {
+            "text": "14 November 2008"
+          },
+          "predecessor1": {
+            "text": "František Dohnal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "František Dohnal"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Jiří Běhounek",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jiří Běhounek"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Leader of the Civic Democratic Party\nin the Czech Senate",
+            "links": [
+              {
+                "text": "Civic Democratic Party",
+                "type": "internal",
+                "page": "Civic Democratic Party (Czech Republic)"
+              },
+              {
+                "text": "Czech Senate",
+                "type": "internal",
+                "page": "Senate of the Czech Republic"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "8 November 2016"
+          },
+          "term_end2": {
+            "text": "19 February 2020"
+          },
+          "predecessor2": {
+            "text": "Jaroslav Kubera",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jaroslav Kubera"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Martin Červíček",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Martin Červíček"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Senator from Jihlava",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "Senate of the Czech Republic"
+              },
+              {
+                "type": "internal",
+                "page": "Jihlava"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "23 October 2010"
+          },
+          "predecessor3": {
+            "text": "Václav Jehlička",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Václav Jehlička"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 8, 1960"
+          },
+          "birth_place": {
+            "text": "Dačice, Czechoslovakia (now Czech Republic)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dačice"
+              },
+              {
+                "type": "internal",
+                "page": "Czechoslovakia"
+              },
+              {
+                "type": "internal",
+                "page": "Czech Republic"
+              }
+            ]
+          },
+          "party": {
+            "text": "ODS",
+            "links": [
+              {
+                "text": "ODS",
+                "type": "internal",
+                "page": "Civic Democratic Party (Czech Republic)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Masaryk University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Masaryk University"
+              }
+            ]
+          },
+          "website": {
+            "text": "http://www.vystrcil.cz/"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was born in Dačice in 1960."
+            },
+            {
+              "text": "He studied math and physics at Masaryk University and became a teacher.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Masaryk University"
+                }
+              ]
+            },
+            {
+              "text": "Vystrčil joined the Civic Democratic Party in 1991.",
+              "links": [
+                {
+                  "text": "Civic Democratic Party",
+                  "type": "internal",
+                  "page": "Civic Democratic Party (Czech Republic)"
+                }
+              ]
+            },
+            {
+              "text": "He became part of Telč town assembly in 1994."
+            },
+            {
+              "text": "He was elected Mayor of Telč in 1998 and remained in the position until 2001."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Vystrčil participated in 2000 regional election and became member of regional assembly in Vysočina."
+            },
+            {
+              "text": "He was regional Governor in 2004–2008."
+            },
+            {
+              "text": "In 2010 he ran in Senate election for Seat in Jihlava."
+            },
+            {
+              "text": "He defeated Social Democrat Václav Stehlík and became Senator.",
+              "links": [
+                {
+                  "text": "Social Democrat",
+                  "type": "internal",
+                  "page": "Czech Social Democratic Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Václav Stehlík"
+                }
+              ]
+            },
+            {
+              "text": "In 2016 Vystrčil was reelected."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following the death of Jaroslav Kubera, Vystrčil was nominated for the position of President of the Senate in 2020 election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jaroslav Kubera"
+                },
+                {
+                  "text": "President of the Senate",
+                  "type": "internal",
+                  "page": "President of the Senate of the Czech Republic"
+                },
+                {
+                  "text": "2020 election",
+                  "type": "internal",
+                  "page": "February 2020 President of the Senate of the Czech Republic election"
+                }
+              ]
+            },
+            {
+              "text": "Besides the Civic Democratic Party his candidacy was endorsed by KDU-ČSL, Czech Social Democratic Party and ANO 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "KDU-ČSL"
+                },
+                {
+                  "type": "internal",
+                  "page": "Czech Social Democratic Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "ANO 2011"
+                }
+              ]
+            },
+            {
+              "text": "Vystrčil won the election and became the new Senate President on 19 February 2020."
+            },
+            {
+              "text": "After the Senate's elections (first round held on 2-3 October 2020, second round held on 9-10 October 2020) he was re-elected in a secret vote on 11 November 2020 by 73 from 77 votes."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-11-11",
+          "title": "Český Senát znovu povede Miloš Vystrčil",
+          "url": "https://www.senat.cz/zpravodajstvi/zprava.php?ke_dni=11.11.2020&O=12&id=3059&from=M",
+          "url-status": "live",
+          "access-date": "2020-11-13",
+          "website": "www.senat.cz",
+          "language": "cs-CZ",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "RNDr. Miloš Vystrčil - životopis - Naši Politici",
+          "url": "http://www.nasipolitici.cz/cs/politik/375-milos-vystrcil",
+          "website": "www.nasipolitici.cz",
+          "accessdate": "22 October 2017",
+          "language": "cs",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Starosta, hejtman a teď senátor. Vystrčil se vrátil a stoupá výš",
+          "url": "https://jihlava.idnes.cz/starosta-hejtman-a-ted-senator-vystrcil-se-vratil-a-stoupa-vys-p7w-/jihlava-zpravy.aspx?c=A101025_1472174_jihlava-zpravy_dmk",
+          "website": "iDNES.cz",
+          "accessdate": "22 October 2017",
+          "date": "25 October 2010",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Senátor je zase z Telče. Vystrčilovi k obhajobě gratuloval šéf ODS",
+          "url": "https://jihlava.idnes.cz/milos-vystrcil-obhajil-na-jihlavsku-post-senatora-fwq-/jihlava-zpravy.aspx?c=A161015_160542_jihlava-zpravy_mv",
+          "website": "iDNES.cz",
+          "accessdate": "22 October 2017",
+          "date": "15 October 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Šustr",
+          "first1": "Ladislav",
+          "title": "Kuberovo dědictví. Růžička by jako šéf Senátu na Tchaj-wan jel, Vystrčil vyčkává",
+          "url": "https://echo24.cz/a/SbMhR/kuberovo-dedictvi-ruzicka-by-jako-sef-senatu-na-tchaj-wan-jel-vystrcil-vyckava",
+          "website": "echo24.cz",
+          "accessdate": "7 February 2020",
+          "language": "cs",
+          "date": "6 February 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Vystrčil z ODS vede Senát. Zváží, zda pojede na Tchaj-wan, jak chtěl Kubera",
+          "url": "https://www.idnes.cz/zpravy/domaci/senat-volba-noveho-predsedy-vystrcil-ruzicka.A200219_061128_domaci_kop",
+          "website": "iDNES.cz",
+          "accessdate": "19 February 2020",
+          "date": "19 February 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "August–September 2020 visit to Taiwan",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Vystrčil announced on 9 June 2020 that he would make a trip with a business delegation to Taiwan, as his predecessor Kubera had planned before his death.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Taiwan"
+                }
+              ]
+            },
+            {
+              "text": "This step was against a recommendation by the government of the Czech Republic, which adheres to a One China policy and has only unofficial ties with Taiwan, and met with strong condemnation and unspecified threats by the Chinese government."
+            },
+            {
+              "text": "A delegation led by Vystrčil arrived in Taipei on 30 August 2020."
+            },
+            {
+              "text": "Chinese Foreign Minister Wang Yi reacted by issuing a sharply worded statement, calling the visit a \"provocation\".",
+              "links": [
+                {
+                  "text": "Wang Yi",
+                  "type": "internal",
+                  "page": "Wang Yi (politician)"
+                }
+              ]
+            },
+            {
+              "text": "In response, the Czech Foreign Minister summoned the Chinese envoy to Prague, and also China summoned the Czech envoy."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In Taiwan, Vystrčil met the President of Taiwan Tsai Ing-wen, and delivered a speech in the parliament of Taiwan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "President of Taiwan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tsai Ing-wen"
+                },
+                {
+                  "text": "parliament",
+                  "type": "internal",
+                  "page": "Legislative Yuan"
+                }
+              ]
+            },
+            {
+              "text": "In his address, Vystrčil declared \"I am a Taiwanese\" in Mandarin, alluding to the phrase Ich bin ein Berliner that John F. Kennedy had used in one of his most famous speeches.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ich bin ein Berliner"
+                },
+                {
+                  "type": "internal",
+                  "page": "John F. Kennedy"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Ich bin ein Berliner"
+                ]
+              }
+            },
+            {
+              "text": "The move led Chinese Foreign Minister Wang Yi to state that Vystrčil's trip had \"crossed a red line\"."
+            },
+            {
+              "text": "In response, German Foreign Minister Heiko Maas, who had been hosting Wang for an official visit at the time when Wang made his statements, said that \"Europeans operate in foreign and security policy very closely with one another\", and indirectly referred to Wang's statements as \"threats\" which were not in line with the expectations of the European Union.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Heiko Maas"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:2020-09-01 Miloš Vystrčil in Taiwan 04.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/2020-09-01_Milo%C5%A1_Vystr%C4%8Dil_in_Taiwan_04.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/2020-09-01_Milo%C5%A1_Vystr%C4%8Dil_in_Taiwan_04.jpg",
+          "caption": "President of the Legislative Yuan Yu Shyi-kun awards Vystrčil a First Class Diplomatic Medal",
+          "links": []
+        },
+        {
+          "file": "File:2020-09-01 Miloš Vystrčil in Taiwan 06.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/2020-09-01_Milo%C5%A1_Vystr%C4%8Dil_in_Taiwan_06.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/2020-09-01_Milo%C5%A1_Vystr%C4%8Dil_in_Taiwan_06.jpg",
+          "caption": "Miloš delivers a speech in the Taiwanese parliament.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Czech Republic–Taiwan relations"
+          ],
+          "template": "seealso"
+        }
+      ],
+      "references": [
+        {
+          "title": "Czech Senate speaker to visit Taiwan in trip that could irk China",
+          "url": "https://www.reuters.com/article/us-czech-taiwan/czech-senate-speaker-to-visit-taiwan-in-trip-that-could-irk-china-idUSKBN23G139",
+          "first1": "Robert",
+          "last1": "Muller",
+          "first2": "Ben",
+          "last2": "Blanchard",
+          "date": "9 June 2020",
+          "work": "Reuters",
+          "accessdate": "9 June 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Czech Senate speaker plans to visit Taiwan, angering China",
+          "url": "https://apnews.com/7c6ad2faa581d149d96f8173447300f6",
+          "date": "9 June 2020",
+          "work": "Associated Press",
+          "accessdate": "9 June 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.dw.com/en/i-am-taiwanese-czech-official-angers-china-after-taipei-speech/a-54781326",
+          "title": "'I am Taiwanese': Czech official angers China after Taipei speech",
+          "date": "1 September 2020",
+          "access-date": "3 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.washingtonpost.com/world/asia_pacific/defying-chinas-wrath-czech-senator-delivers-taiwan-speech/2020/09/01/dca70d2a-ec0c-11ea-bd08-1b10132b458f_story.html",
+          "title": "Defying China’s wrath, Czech senator delivers Taiwan speech",
+          "first": "Huizhong",
+          "last": "Wu",
+          "work": "The Washington Post / AP",
+          "date": "1 September 2020",
+          "access-date": "5 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://hongkongfp.com/2020/08/31/czechs-summon-chinese-envoy-over-threats-made-against-politician-visiting-taiwan/",
+          "title": "Czechs summon Chinese envoy over threats made against politician visiting Taiwan",
+          "work": "Hong Kong Free Press / AFP",
+          "date": "31 August 2020",
+          "access-date": "31 August 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "'I am a Taiwanese', Czech Speaker Vystrcil tells Taiwan parliament",
+          "url": "https://www.aljazeera.com/news/2020/09/taiwanese-czech-speaker-vystrcil-tells-taiwan-parliament-200901045311854.html",
+          "work": "Aljazeera.com",
+          "date": "1 September 2020",
+          "accessdate": "3 September 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "František Dohnal",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of Vysočina Region",
+          "years": "2004–2008",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Jiří Běhounek",
+          "template": "s-aft"
+        },
+        {
+          "before": "Jiří Růžička\nActing",
+          "template": "s-bef"
+        },
+        {
+          "title": "President of the Czech Senate",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "miloš vystrčil"
+        },
+        {
+          "template": "speaker of the senate of the czech republic elections"
+        },
+        {
+          "template": "cz-senate-speakers"
+        }
+      ]
+    }
+  ]
+}

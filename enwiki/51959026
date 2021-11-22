@@ -1,0 +1,241 @@
+{
+  "title": "Marie Benešová",
+  "pageID": 51959026,
+  "categories": [
+    "1948 births",
+    "Politicians from Prague",
+    "Charles University alumni",
+    "Czech Social Democratic Party MPs",
+    "Justice ministers of the Czech Republic",
+    "Living people",
+    "Members of the Chamber of Deputies of the Czech Republic (2013–2017)",
+    "ANO 2011 Government ministers",
+    "Czech lawyers",
+    "Female justice ministers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Marie Benešová (born 17 April 1948) is a Czech politician and lawyer who is the current Minister of Justice under Prime Minister Andrej Babiš.",
+              "links": [
+                {
+                  "text": "Czech",
+                  "type": "internal",
+                  "page": "Czech Republic"
+                },
+                {
+                  "text": "Minister of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice (Czech Republic)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andrej Babiš"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Marie Benešová"
+                ]
+              }
+            },
+            {
+              "text": "She held the position previously between 2013 and 2014, as part of Jiří Rusnok's Cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jiří Rusnok's Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Czech politician and lawyer",
+          "template": "short description"
+        },
+        {
+          "date": "June 2018",
+          "template": "use dmy dates"
+        },
+        {
+          "df": "y",
+          "year": "1948",
+          "month": "4",
+          "day": "17",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Marie Benešová"
+          },
+          "image": {
+            "text": "[[File:MarieBenesova.jpg]]"
+          },
+          "office": {
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "Ministry of Justice (Czech Republic)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "30 April 2019"
+          },
+          "primeminister": {
+            "text": "Andrej Babiš",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrej Babiš"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Jan Kněžínek",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jan Kněžínek"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "10 July 2013"
+          },
+          "term_end1": {
+            "text": "29 January 2014"
+          },
+          "primeminister1": {
+            "text": "Jiří Rusnok",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jiří Rusnok"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Pavel Blažek",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pavel Blažek"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Helena Válková",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Helena Válková"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Chamber of Deputies",
+            "links": [
+              {
+                "text": "Chamber of Deputies",
+                "type": "internal",
+                "page": "Chamber of Deputies of the Czech Republic"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "26 October 2013"
+          },
+          "term_end2": {
+            "text": "26 October 2017"
+          },
+          "birth_date": {
+            "text": "April 17, 1948"
+          },
+          "birth_place": {
+            "text": "Prague, Czechoslovakia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prague"
+              },
+              {
+                "type": "internal",
+                "page": "Czechoslovakia"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "politician, lawyer"
+          },
+          "party": {
+            "text": "Social Democratic Party",
+            "links": [
+              {
+                "text": "Social Democratic Party",
+                "type": "internal",
+                "page": "Czech Social Democratic Party"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Charles University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Charles University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://zpravy.idnes.cz/zeman-jmenoval-rusnokovu-vladu-ma-zabranit-tlakum-na-vysetrovani-10c-/domaci.aspx?c=A130710_074801_domaci_jpl",
+          "title": "Zeman jmenoval Rusnokovu vládu. Čeká, že zabrání tlakům na policii",
+          "language": "cs",
+          "date": "10 July 2013",
+          "accessdate": "11 October 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "czech cabinet"
+        },
+        {
+          "template": "babiš cabinet"
+        },
+        {
+          "template": "cz-justice-ministers"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "czechrepublic-politician-stub"
+        }
+      ]
+    }
+  ]
+}

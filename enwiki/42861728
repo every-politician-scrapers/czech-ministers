@@ -1,0 +1,360 @@
+{
+  "title": "Richard Brabec",
+  "pageID": 42861728,
+  "categories": [
+    "1966 births",
+    "Politicians from Kladno",
+    "Environment ministers of the Czech Republic",
+    "Living people",
+    "ANO 2011 MPs",
+    "Civic Democratic Party (Czech Republic) politicians",
+    "Freedom Union – Democratic Union politicians",
+    "ANO 2011 Government ministers",
+    "Members of the Chamber of Deputies of the Czech Republic (2017–2021)",
+    "Members of the Chamber of Deputies of the Czech Republic (2013–2017)",
+    "Members of the Chamber of Deputies of the Czech Republic (2021–2025)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Richard Brabec (born 5 July 1966) is a Czech politician, who serves as Czech Minister for the Environment and Deputy Prime Minister.",
+              "links": [
+                {
+                  "text": "Czech",
+                  "type": "internal",
+                  "page": "Czech Republic"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Richard Brabec"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Czech politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "April 2018",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "November 2019",
+          "template": "one source"
+        },
+        {
+          "year": "1966",
+          "month": "7",
+          "day": "5",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Richard Brabec"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament",
+                "anchor": "Czech Republic"
+              }
+            ]
+          },
+          "image": {
+            "text": "Richard Brabec cropped.jpg"
+          },
+          "office": {
+            "text": "Deputy Prime Minister of the Czech Republic",
+            "links": [
+              {
+                "text": "Deputy Prime Minister of the Czech Republic",
+                "type": "internal",
+                "page": "Deputy prime minister"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Andrej Babiš",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrej Babiš"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "13 December 2017"
+          },
+          "term_end": {
+            "text": "30 April 2019"
+          },
+          "predecessor": {
+            "text": "Pavel Bělobrádek",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pavel Bělobrádek"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Alena Schillerová",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alena Schillerová"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of the Environment",
+            "links": [
+              {
+                "text": "Minister of the Environment",
+                "type": "internal",
+                "page": "Ministry of the Environment (Czech Republic)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Bohuslav Sobotka Andrej Babiš",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bohuslav Sobotka"
+              },
+              {
+                "type": "internal",
+                "page": "Andrej Babiš"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "29 January 2014"
+          },
+          "predecessor1": {
+            "text": "Tomáš Podivínský",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tomáš Podivínský"
+              }
+            ]
+          },
+          "office2": {
+            "text": "First Deputy Prime Minister of the Czech Republic",
+            "links": [
+              {
+                "text": "First Deputy Prime Minister of the Czech Republic",
+                "type": "internal",
+                "page": "Bohuslav Sobotka's Cabinet"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Bohuslav Sobotka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bohuslav Sobotka"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "24 May 2017"
+          },
+          "term_end2": {
+            "text": "13 December 2017"
+          },
+          "predecessor2": {
+            "text": "Andrej Babiš",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrej Babiš"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Jan Hamáček (2018)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jan Hamáček"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of the Chamber of Deputies",
+            "links": [
+              {
+                "text": "Chamber of Deputies",
+                "type": "internal",
+                "page": "Chamber of Deputies of the Czech Republic"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "26 October 2013"
+          },
+          "birth_date": {
+            "text": "July 5, 1966"
+          },
+          "birth_place": {
+            "text": "Kladno, Czechoslovakia (now Czech Republic)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kladno"
+              },
+              {
+                "type": "internal",
+                "page": "Czechoslovakia"
+              }
+            ]
+          },
+          "party": {
+            "text": "ODS (1991–1997) ANO 2011 (2012–present)",
+            "links": [
+              {
+                "text": "ODS",
+                "type": "internal",
+                "page": "Civic Democratic Party (Czech Republic)"
+              },
+              {
+                "type": "internal",
+                "page": "ANO 2011"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Charles University in Prague",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Charles University in Prague"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "A former manager in the chemical industry (Unipetrol, Spolana Neratovice and Lovochemie), Brabec first entered the Chamber of Deputies in October 2013, elected for ANO 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Unipetrol"
+                },
+                {
+                  "type": "internal",
+                  "page": "Spolana"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lovochemie"
+                },
+                {
+                  "text": "Chamber of Deputies",
+                  "type": "internal",
+                  "page": "Chamber of Deputies of the Czech Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "ANO 2011"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since January 2014, he has been the Czech Minister for the Environment, in the government of Bohuslav Sobotka, and later under Prime Minister Andrej Babiš.",
+              "links": [
+                {
+                  "text": "the government",
+                  "type": "internal",
+                  "page": "Bohuslav Sobotka's Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bohuslav Sobotka"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andrej Babiš"
+                }
+              ]
+            },
+            {
+              "text": "From December 2017 to April 2019 he served as the Deputy Prime Minister of the Czech Republic."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.vlada.cz/cz/clenove-vlady/richard-brabec-115401/",
+          "title": "Richard Brabec",
+          "publisher": "Government of the Czech Republic",
+          "language": "Czech",
+          "accessdate": "1 June 2014",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "cz-env-ministers"
+        },
+        {
+          "template": "sobotka cabinet"
+        },
+        {
+          "template": "czech cabinet"
+        },
+        {
+          "state": "autocollapse",
+          "template": "babiš cabinet"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "czechrepublic-politician-stub"
+        }
+      ]
+    }
+  ]
+}
