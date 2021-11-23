@@ -500,6 +500,16 @@
         {
           "date": "August 2018",
           "template": "which"
+        },
+        {
+          "text": "Seznam Zprávy",
+          "lan1": "cs",
+          "template": "ill"
+        },
+        {
+          "text": "Janek Kroupa",
+          "lan1": "cs",
+          "template": "ill"
         }
       ],
       "references": [

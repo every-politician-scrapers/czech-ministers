@@ -3568,7 +3568,10 @@
         {
           "sentences": [
             {
-              "text": "A preliminary version of the EU audit reached 22 findings, with a recommendation to take action to repay EU funds totalling 17.49 million Euros.. The audit concluded that Babiš had a conflict of interest by taking part in decisions about the allocation of EU funds.",
+              "text": "A preliminary version of the EU audit reached 22 findings, with a recommendation to take action to repay EU funds totalling 17.49 million Euros.."
+            },
+            {
+              "text": "The audit concluded that Babiš had a conflict of interest by taking part in decisions about the allocation of EU funds.",
               "links": [
                 {
                   "text": "conflict of interest",
