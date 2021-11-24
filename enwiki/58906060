@@ -450,8 +450,13 @@
               ]
             },
             {
-              "text": "In April 2020, Hřib oversaw the removal of the statue dedicated to Soviet marshal Ivan Konev.",
+              "text": "In April 2020, Hřib oversaw the removal of the statue dedicated to Soviet marshal Ivan Konev, as Konev is viewed in the Czech Republic as a symbol of Soviet-era oppression.",
               "links": [
+                {
+                  "text": "statue",
+                  "type": "internal",
+                  "page": "Statue of Ivan Konev"
+                },
                 {
                   "type": "internal",
                   "page": "Ivan Konev"

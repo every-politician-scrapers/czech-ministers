@@ -214,7 +214,7 @@
             "text": "October 8, 1960"
           },
           "birth_place": {
-            "text": "Dačice, Czechoslovakia (now Czech Republic)",
+            "text": "Dačice, Czechoslovakia\n(now Czech Republic)",
             "links": [
               {
                 "type": "internal",
@@ -223,10 +223,6 @@
               {
                 "type": "internal",
                 "page": "Czechoslovakia"
-              },
-              {
-                "type": "internal",
-                "page": "Czech Republic"
               }
             ]
           },
