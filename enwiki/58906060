@@ -621,6 +621,29 @@
       ]
     },
     {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hřib is married and has three children."
+            },
+            {
+              "text": "As a mayor, he commutes by public transport and also uses his own electric scooter with big wheels.",
+              "links": [
+                {
+                  "text": "public transport",
+                  "type": "internal",
+                  "page": "public transport"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "title": "See also",
       "depth": 0,
       "paragraphs": [
