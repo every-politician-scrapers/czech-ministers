@@ -1303,6 +1303,12 @@
                   "page": "Miloš Vystrčil"
                 }
               ]
+            },
+            {
+              "text": "On 25 November Zeman was discharged from the hospital after his condition improved."
+            },
+            {
+              "text": "The hospital said it would have preferred Zeman to remain hospitalized, but accepted his decision."
             }
           ]
         }
@@ -1659,6 +1665,16 @@
           "work": "Radio Prague International",
           "url": "https://english.radio.cz/senate-chair-czech-president-unable-fulfil-his-duties-8731614",
           "access-date": "2021-10-18",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2021-10-25",
+          "title": "Czech President Milos Zeman discharged from hospital",
+          "language": "en-GB",
+          "work": "AP",
+          "url": "https://apnews.com/article/health-europe-elections-prague-milos-zeman-7248c1298459578829ecee932ca88626",
+          "access-date": "2021-11-25",
           "template": "citation",
           "type": "news"
         },
