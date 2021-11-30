@@ -1,0 +1,277 @@
+{
+  "title": "Petr Fiala",
+  "pageID": 39542172,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "Politicians from Brno",
+    "Prime Ministers of the Czech Republic",
+    "Education ministers of the Czech Republic",
+    "Leaders of the Civic Democratic Party (Czech Republic)",
+    "Masaryk University alumni",
+    "Charles University faculty",
+    "Civic Democratic Party (Czech Republic) prime ministers",
+    "Civic Democratic Party (Czech Republic) MPs",
+    "21st-century Czech politicians",
+    "Czech political scientists",
+    "Members of the Chamber of Deputies of the Czech Republic (2017–2021)",
+    "Members of the Chamber of Deputies of the Czech Republic (2013–2017)",
+    "Masaryk University faculty",
+    "Czechoslovak dissidents",
+    "Members of the Chamber of Deputies of the Czech Republic (2021–2025)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Petr Fiala (born 1 September 1964) is a Czech politician and political scientist who has been the Prime Minister-designate of the Czech Republic since 28 November 2021.",
+              "links": [
+                {
+                  "text": "Czech",
+                  "type": "internal",
+                  "page": "Czech Republic"
+                },
+                {
+                  "text": "Prime Minister-designate of the Czech Republic",
+                  "type": "internal",
+                  "page": "Prime Minister of the Czech Republic"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Petr Fiala"
+                ]
+              }
+            },
+            {
+              "text": "He has been leader of the Civic Democratic Party (ODS) since 2014 and previously served as the Minister of Education, Youth and Sports from 2012 to 2013.",
+              "links": [
+                {
+                  "text": "Civic Democratic Party",
+                  "type": "internal",
+                  "page": "Civic Democratic Party (Czech Republic)"
+                },
+                {
+                  "text": "Minister of Education, Youth and Sports",
+                  "type": "internal",
+                  "page": "Ministry of Education, Youth and Sports (Czech Republic)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 28 November 2021, Fiala was sworn in as Prime Minister by President Miloš Zeman and succeeded Andrej Babiš, while the rest of his cabinet is due to assume responsibilities of the executive branch.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Miloš Zeman"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andrej Babiš"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "November 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "description": "Czech politician",
+          "template": "short description"
+        },
+        {
+          "year": "1964",
+          "month": "09",
+          "day": "01",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Masaryk University",
+            "Charles University in Prague"
+          ],
+          "template": "ubl"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Petr Fiala"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament",
+                "anchor": "Czech Republic"
+              }
+            ]
+          },
+          "image": {
+            "text": "Petr Fiala 2019 Praha.jpg"
+          },
+          "office": {
+            "text": "Prime Minister-designate of the Czech Republic",
+            "links": [
+              {
+                "text": "Prime Minister-designate of the Czech Republic",
+                "type": "internal",
+                "page": "Prime Minister of the Czech Republic"
+              }
+            ]
+          },
+          "president": {
+            "text": "Miloš Zeman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Miloš Zeman"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "28 November 2021"
+          },
+          "succeeding": {
+            "text": "Andrej Babiš",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrej Babiš"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Andrej Babiš",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrej Babiš"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Leader of the Civic Democratic Party",
+            "links": [
+              {
+                "text": "Civic Democratic Party",
+                "type": "internal",
+                "page": "Civic Democratic Party (Czech Republic)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "18 January 2014"
+          },
+          "predecessor2": {
+            "text": "Petr Nečas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petr Nečas"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister of Education, Youth and Sports",
+            "links": [
+              {
+                "text": "Minister of Education, Youth and Sports",
+                "type": "internal",
+                "page": "Ministry of Education, Youth and Sports (Czech Republic)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2 May 2012"
+          },
+          "term_end3": {
+            "text": "10 July 2013"
+          },
+          "primeminister3": {
+            "text": "Petr Nečas"
+          },
+          "predecessor3": {
+            "text": "Josef Dobeš"
+          },
+          "successor3": {
+            "text": "Dalibor Štys"
+          },
+          "office4": {
+            "text": "Member of the Chamber of Deputies",
+            "links": [
+              {
+                "text": "Chamber of Deputies",
+                "type": "internal",
+                "page": "Chamber of Deputies of the Czech Republic"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "26 October 2013"
+          },
+          "birth_date": {
+            "text": "September 1, 1964"
+          },
+          "birth_place": {
+            "text": "Brno, Czechoslovakia\n(now Czech Republic)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brno"
+              },
+              {
+                "type": "internal",
+                "page": "Czechoslovakia"
+              }
+            ]
+          },
+          "party": {
+            "text": "ODS (2013–present)",
+            "links": [
+              {
+                "text": "ODS",
+                "type": "internal",
+                "page": "Civic Democratic Party (Czech Republic)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Masaryk University\n\nCharles University in Prague"
+          },
+          "website": {
+            "text": "http://pfiala.cz"
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "Reuters",
+          "date": "2021-11-28",
+          "title": "Czech president appoints Petr Fiala as prime minister",
+          "language": "en",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/world/europe/czech-president-appoints-petr-fiala-prime-minister-2021-11-28/",
+          "access-date": "2021-11-28",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    }
+  ]
+}

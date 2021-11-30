@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "Jan Hamáček (born 4 November 1978) is a Czech politician who has been Leader of the Czech Social Democratic Party (ČSSD) since March 2018 and Minister of the Interior since June 2018.",
+              "text": "Jan Hamáček (born 4 November 1978) is a Czech politician who has been the leader of the Czech Social Democratic Party (ČSSD) since March 2018 and minister of the Interior since June 2018.",
               "links": [
                 {
                   "text": "Czech",
@@ -36,7 +36,7 @@
                   "page": "Czech Social Democratic Party"
                 },
                 {
-                  "text": "Minister of the Interior",
+                  "text": "minister of the Interior",
                   "type": "internal",
                   "page": "Ministry of the Interior (Czech Republic)"
                 }
@@ -48,10 +48,10 @@
               }
             },
             {
-              "text": "He also served as Speaker of the Chamber of Deputies from 2013 to 2017, and was acting Minister of Foreign Affairs from June to October 2018 and from 12 to 21 April 2021.",
+              "text": "He also served as the speaker of the Chamber of Deputies from 2013 to 2017, and was acting minister of Foreign Affairs from June to October 2018 and from 12 to 21 April 2021.",
               "links": [
                 {
-                  "text": "Speaker of the Chamber of Deputies",
+                  "text": "speaker of the Chamber of Deputies",
                   "type": "internal",
                   "page": "Speaker of the Chamber of Deputies (Czech Republic)"
                 }
@@ -355,282 +355,6 @@
           "access-date": "27 July 2015",
           "template": "citation",
           "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Political career",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Prior to his election to parliament, Hamáček worked as an adviser to two Prime Ministers, and as his party's International Secretary."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Hamáček has been a member of the Chamber of Deputies since the 2006 elections.",
-              "links": [
-                {
-                  "text": "Chamber of Deputies",
-                  "type": "internal",
-                  "page": "Chamber of Deputies of the Czech Republic"
-                },
-                {
-                  "text": "2006 elections",
-                  "type": "internal",
-                  "page": "2006 Czech legislative election"
-                }
-              ]
-            },
-            {
-              "text": "During his time in parliament, he has held the position of Vice-Chairman of the Committee on Foreign Affairs, headed the Czech delegation to the NATO Parliamentary Assembly and served on the Committee on European Affairs.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "NATO Parliamentary Assembly"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Hamáček became the leader of ČSSD in March 2018."
-            },
-            {
-              "text": "In Andrej Babis' Second Cabinet, sworn in in June 2018, he was named Minister of the Interior, and also served as acting Minister of Foreign Affairs from June to October 2018.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Andrej Babis' Second Cabinet"
-                },
-                {
-                  "text": "Minister of Foreign Affairs",
-                  "type": "internal",
-                  "page": "Minister of Foreign Affairs (Czech Republic)"
-                }
-              ]
-            },
-            {
-              "text": "Miroslav Poche was originally nominated to be the minister, but due to President Miloš Zeman's refusal to swear him in, Hamáček was made acting foreign minister until the situation could be resolved.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Miroslav Poche"
-                },
-                {
-                  "type": "internal",
-                  "page": "Miloš Zeman"
-                }
-              ]
-            },
-            {
-              "text": "On 16 October 2018, Tomáš Petříček was named the new Minister of Foreign Affairs.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Tomáš Petříček"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In August 2018, Hamáček helped negotiate the release of two workers from a German humanitarian group in Syria, and traveled to Damascus for the handover of the workers; the Czech Republic is the only country in Europe that maintains diplomatic relations with Syria.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Syria"
-                },
-                {
-                  "type": "internal",
-                  "page": "Damascus"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In 2021, Seznam Zprávy reported that Hamáček was considering negotiating with Russia not to disclose evidence of Russia's involvement in the 2014 Vrbětice ammunition warehouses explosions in exchange for 1 million doses of Sputnik V vaccine.",
-              "links": [
-                {
-                  "text": "2014 Vrbětice ammunition warehouses explosions",
-                  "type": "internal",
-                  "page": "2014 Vrbětice ammunition warehouses explosions"
-                },
-                {
-                  "type": "internal",
-                  "page": "Sputnik V vaccine"
-                }
-              ]
-            },
-            {
-              "text": "Hamáček denied the accusation and said that he intended to sue the media outlet."
-            },
-            {
-              "text": "The journalist, Janek Kroupa, said that he had an audio recording."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "After ČSSD's poor performance in the 2021 Czech legislative election, in which the party failed to meet the 5% voting threshold, Hamáček resigned as leader of the party.",
-              "links": [
-                {
-                  "text": "2021 Czech legislative election",
-                  "type": "internal",
-                  "page": "2021 Czech legislative election"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "August 2018",
-          "template": "which"
-        },
-        {
-          "text": "Seznam Zprávy",
-          "lan1": "cs",
-          "template": "ill"
-        },
-        {
-          "text": "Janek Kroupa",
-          "lan1": "cs",
-          "template": "ill"
-        }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "first": "Jason",
-          "last": "Hovet",
-          "date": "11 August 2018",
-          "url": "https://www.reuters.com/article/us-mideast-crisis-syria-czech/czech-diplomats-secure-release-of-german-ngo-workers-in-syria-idUSKBN1KU1HL",
-          "title": "Czech diplomats secure release of German NGO workers in Syria",
-          "website": "Reuters",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Plevák",
-          "first1": "Ondřej",
-          "title": "Czech Deputy PM files civil suit against article accusing him of Russia collusion",
-          "url": "https://www.euractiv.com/section/politics/short_news/czech-deputy-pm-files-civil-suit-against-article-accusing-him-of-russia-collusion/",
-          "access-date": "6 May 2021",
-          "work": "www.euractiv.com",
-          "date": "6 May 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "2021-10-09",
-          "title": "Končím, prohlásil Hamáček po propadu ČSSD ve volbách",
-          "url": "https://www.idnes.cz/volby/jan-hamacek-ceska-strana-socialne-demokraticka-konec.A211009_175340_volby_misl",
-          "access-date": "2021-10-10",
-          "website": "iDNES.cz",
-          "language": "cs",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Other activities",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "He is a Senior Network Member at the European Leadership Network (ELN).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "European Leadership Network"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "title": "Senior Network",
-          "url": "https://www.europeanleadershipnetwork.org/networks/network-members/",
-          "access-date": "2020-09-21",
-          "website": "www.europeanleadershipnetwork.org",
-          "language": "en-GB",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-ppo"
-        },
-        {
-          "before": "Milan Chovanec",
-          "template": "s-bef"
-        },
-        {
-          "title": "Leader of the Social Democratic Party",
-          "years": "2018–2021",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "jan hamáček"
-        },
-        {
-          "template": "czech cabinet"
-        },
-        {
-          "template": "babiš cabinet"
-        },
-        {
-          "state": "collapsed",
-          "template": "czech social democratic party"
-        },
-        {
-          "template": "cssd-chairman"
-        },
-        {
-          "template": "speaker of the chamber of deputies of the parliament of the czech republic elections"
-        },
-        {
-          "template": "party of european socialists"
-        },
-        {
-          "template": "authority control"
         }
       ]
     }

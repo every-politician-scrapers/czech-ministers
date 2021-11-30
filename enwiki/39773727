@@ -21,7 +21,7 @@
         {
           "sentences": [
             {
-              "text": "Jiří Rusnok (born 16 October 1960) is a Czech politician and economist who served as Prime Minister of the Czech Republic between June 2013 and January 2014.",
+              "text": "Jiří Rusnok (born 16 October 1960) is a Czech politician and economist who served as the prime minister of the Czech Republic between June 2013 and January 2014.",
               "links": [
                 {
                   "text": "Czech",
@@ -29,8 +29,9 @@
                   "page": "Czech people"
                 },
                 {
+                  "text": "prime minister of the Czech Republic",
                   "type": "internal",
-                  "page": "Prime Minister of the Czech Republic"
+                  "page": "prime minister of the Czech Republic"
                 }
               ],
               "formatting": {
@@ -40,7 +41,7 @@
               }
             },
             {
-              "text": "Since 1 July 2016 he has been serving as Governor of the Czech National Bank.",
+              "text": "Since 1 July 2016 he has been serving as the governor of the Czech National Bank.",
               "links": [
                 {
                   "type": "internal",
@@ -53,21 +54,21 @@
         {
           "sentences": [
             {
-              "text": "Previously, Rusnok served in the government of the Czech Republic as Minister of Finance from 2001 to 2002 and as Minister of Industry and Trade from 2002 to 2003.",
+              "text": "Previously, Rusnok served in the government of the Czech Republic as minister of Finance from 2001 to 2002 and as minister of Industry and Trade from 2002 to 2003.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Czech Republic"
                 },
                 {
-                  "text": "Minister of Finance",
+                  "text": "minister of Finance",
                   "type": "internal",
                   "page": "Finance Minister of the Czech Republic"
                 }
               ]
             },
             {
-              "text": "On 25 June 2013, he was appointed as Prime Minister by President Miloš Zeman.",
+              "text": "On 25 June 2013, he was appointed as the prime minister by President Miloš Zeman.",
               "links": [
                 {
                   "type": "internal",
@@ -94,7 +95,7 @@
         {
           "sentences": [
             {
-              "text": "On 25 May 2016, President Miloš Zeman appointed Rusnok as 4th Governor of the Czech National Bank, succeeding Miroslav Singer.",
+              "text": "On 25 May 2016, President Miloš Zeman appointed Rusnok as fourth governor of the Czech National Bank, succeeding Miroslav Singer.",
               "links": [
                 {
                   "type": "internal",
@@ -364,517 +365,6 @@
           "type": "inline",
           "data": {},
           "inline": {}
-        }
-      ]
-    },
-    {
-      "title": "Early life",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Rusnok was born in Ostrava-Vítkovice.",
-              "links": [
-                {
-                  "text": "Ostrava-Vítkovice",
-                  "type": "internal",
-                  "page": "Vítkovice (Ostrava)"
-                }
-              ]
-            },
-            {
-              "text": "He studied at the University of Economics in Prague, graduating in 1984.",
-              "links": [
-                {
-                  "text": "University of Economics",
-                  "type": "internal",
-                  "page": "University of Economics, Prague"
-                },
-                {
-                  "type": "internal",
-                  "page": "Prague"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "url": "http://zpravy.ihned.cz/politika/c1-60134120-jiri-rusnok-uznavany-ekonom-ktery-hlasite-podporoval-milose-zemana",
-          "title": "Jiří Rusnok: Uznávaný ekonom, který hlasitě podporoval Miloše Zemana",
-          "last": "Marešová",
-          "first": "Gabriela",
-          "date": "25 June 2013",
-          "work": "Hospodářské noviny",
-          "publisher": "iHNED",
-          "language": "Czech",
-          "accessdate": "25 June 2013",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Career",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Rusnok worked for Státní plánovací komise (State Planning Commission) and Federální ministerstvo pro strategické plánování (Federal Ministry for Strategic Planning).",
-              "formatting": {
-                "italic": [
-                  "Státní plánovací komise",
-                  "Federální ministerstvo pro strategické plánování"
-                ]
-              }
-            },
-            {
-              "text": "Before the so-called Velvet Revolution, he was a candidate for membership in the Communist Party of Czechoslovakia.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Velvet Revolution"
-                },
-                {
-                  "type": "internal",
-                  "page": "Communist Party of Czechoslovakia"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In the 1990s, Rusnok worked as director of a department of the Czech-Moravian Confederation of Trade Unions (1992–1998).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Czech-Moravian Confederation of Trade Unions"
-                }
-              ]
-            },
-            {
-              "text": "He joined politics in 1998 as a member of the Czech Social Democratic Party (ČSSD)."
-            },
-            {
-              "text": "Prime Minister Miloš Zeman appointed Rusnok to his cabinet as Finance Minister in June 2001."
-            },
-            {
-              "text": "He continued as Minister of Industry and Trade in the cabinet of Vladimír Špidla; however, he resigned his post and parliamentary mandate and left politics in March 2003, after disagreements with Špidla.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Vladimír Špidla"
-                }
-              ]
-            },
-            {
-              "text": "After that, he worked in the private sector."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "url": "http://zpravy.idnes.cz/profil-povereneho-premiera-rusnoka-dbe-/domaci.aspx?c=A130625_153957_domaci_jj",
-          "title": "Premiér Rusnok: dvojnásobný ministr, člen NERV i podporovatel Klause",
-          "last": "Jiřička",
-          "first": "Jan",
-          "date": "25 June 2013",
-          "work": "Mladá fronta DNES",
-          "publisher": "iDNES",
-          "language": "Czech",
-          "accessdate": "25 June 2013",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Prime Minister",
-      "depth": 1,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "President Miloš Zeman appointed Rusnok as Prime Minister of a caretaker government in June 2013 in a move that was criticized by political parties in the Czech Republic.",
-              "links": [
-                {
-                  "text": "caretaker government",
-                  "type": "internal",
-                  "page": "caretaker government"
-                }
-              ]
-            },
-            {
-              "text": "It was called irresponsible by the parties of the former coalition government (ODS and TOP 09), while the opposition (ČSSD) called for early elections.",
-              "links": [
-                {
-                  "text": "former coalition government",
-                  "type": "internal",
-                  "page": "Petr Nečas's Cabinet"
-                },
-                {
-                  "text": "ODS",
-                  "type": "internal",
-                  "page": "Civic Democratic Party (Czech Republic)"
-                },
-                {
-                  "type": "internal",
-                  "page": "TOP 09"
-                },
-                {
-                  "text": "ČSSD",
-                  "type": "internal",
-                  "page": "Czech Social Democratic Party"
-                },
-                {
-                  "text": "early elections",
-                  "type": "internal",
-                  "page": "Next Czech legislative election"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On 7 August 2013, Chamber of Deputies denied support to the caretaker government of Rusnok.",
-              "links": [
-                {
-                  "text": "Chamber of Deputies",
-                  "type": "internal",
-                  "page": "Chamber of Deputies of the Parliament of the Czech Republic"
-                }
-              ]
-            },
-            {
-              "text": "His cabinet got support of 93 legislators, compared to 100 against, while seven legislators abstained."
-            },
-            {
-              "text": "A majority of voting legislators was required."
-            },
-            {
-              "text": "Following the vote, TOP 09 stated that due to a lack of support for a potential renewed ODS-TOP 09-LIDEM government, they would instead support an early election.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "LIDEM"
-                }
-              ]
-            },
-            {
-              "text": "The ČSSD and KSČM also supported an early election."
-            },
-            {
-              "text": "In reaction, Rusnok signaled his intention to resign the next day: \"I think this result is positive, as far as further political development in our country is concerned. It will lead to the dissolution of the parliament.\""
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "January 2014",
-          "template": "why"
-        }
-      ],
-      "references": [
-        {
-          "url": "http://www.ceskatelevize.cz/ct24/domaci/232627-vladu-sestavi-ekonom-rusnok-rozhodl-zeman/",
-          "title": "Vládu sestaví ekonom Rusnok, rozhodl Zeman",
-          "date": "25 June 2013",
-          "publisher": "Czech Television",
-          "language": "Czech",
-          "accessdate": "25 June 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://ca.reuters.com/article/topNews/idCABRE95O0R320130625",
-          "title": "Czech president picks Rusnok as premier in showdown with parties",
-          "date": "25 June 2013",
-          "publisher": "Reuters",
-          "accessdate": "25 June 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.novinky.cz/domaci/309944-rusnokova-vlada-neziskala-duveru.html",
-          "title": "Rusnokova vláda nezískala důvěru",
-          "date": "7 August 2013",
-          "publisher": "novinky.cz",
-          "language": "Czech",
-          "accessdate": "10 August 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://aktualne.centrum.cz/domaci/politika/clanek.phtml?id=787012#",
-          "title": "Online: 100 proti 93, Rusnok důvěru nezískal",
-          "last": "Novák",
-          "first": "Jakub",
-          "date": "7 August 2013",
-          "publisher": "aktualne.cz",
-          "language": "Czech",
-          "accessdate": "10 August 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://zpravy.idnes.cz/zeman-tvrdi-ze-jeho-kroky-zklidni-politiku-a-nepovedou-k-tsunami-phz-/domaci.aspx?c=A130625_124322_domaci_kop",
-          "title": "Mé další kroky musí vést ke zklidnění, žádné tsunami, řekl Zeman",
-          "date": "25 June 2013",
-          "work": "Mladá fronta DNES",
-          "publisher": "iDNES",
-          "language": "Czech",
-          "accessdate": "25 June 2013",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Governor of the Czech National Bank",
-      "depth": 1,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "In 2014, Zeman appointed Rusnok to the seven-member board of the Czech National Bank, replacing Eva Zamrazilova.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Czech National Bank"
-                },
-                {
-                  "type": "internal",
-                  "page": "Eva Zamrazilova"
-                }
-              ]
-            },
-            {
-              "text": "In 2016, he succeeded Miroslav Singer as the bank’s governor, again following an appointment by Zeman.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Miroslav Singer"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
-      ]
-    },
-    {
-      "title": "Other activities",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "European Systemic Risk Board (ESRB), Ex-Officio Member",
-            "links": [
-              {
-                "type": "internal",
-                "page": "European Systemic Risk Board"
-              }
-            ]
-          },
-          {
-            "text": "International Monetary Fund (IMF), Ex-Officio Alternate Member of the Board of Governors (since 2016)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "International Monetary Fund"
-              }
-            ]
-          }
-        ]
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
-      ]
-    },
-    {
-      "title": "Political position",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Rusnok supports moving the Czech Republic closer to adopting the euro.",
-              "links": [
-                {
-                  "text": "euro",
-                  "type": "internal",
-                  "page": "euro"
-                }
-              ]
-            },
-            {
-              "text": "In 2014, he also backed the central bank’s policy of weakening the Czech koruna to fight deflation risks and help an economy recovering from a record-long recession.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Czech koruna"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "See also",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Jiří Rusnok's Cabinet",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jiří Rusnok's Cabinet"
-              }
-            ]
-          }
-        ]
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        },
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "3"
-          ],
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "before": "Pavel Mertlík",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister of Finance",
-          "years": "2001–2002",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Bohuslav Sobotka",
-          "template": "s-aft"
-        },
-        {
-          "before": "Miroslav Grégr",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister of Industry and Trade",
-          "years": "2002–2003",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Milan Urban",
-          "template": "s-aft"
-        },
-        {
-          "before": "Petr Nečas",
-          "template": "s-bef"
-        },
-        {
-          "title": "Prime Minister of the Czech Republic",
-          "years": "2013–2014",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Bohuslav Sobotka",
-          "template": "s-aft"
-        },
-        {
-          "template": "s-gov"
-        },
-        {
-          "before": "Miroslav Singer",
-          "template": "s-bef"
-        },
-        {
-          "title": "Governor of the Czech National Bank",
-          "years": "2016–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "czechpms"
-        },
-        {
-          "template": "cz-f-ministers"
-        },
-        {
-          "template": "cz-industrytrade-ministers"
-        },
-        {
-          "template": "authority control"
         }
       ]
     }
