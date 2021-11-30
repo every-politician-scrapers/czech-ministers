@@ -2,7 +2,6 @@ wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
 Q42575425,Adam Vojtěch,Adam Vojtěch,male,1986-10-02T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q45750372,Minister of Health,Q42575425-15a40cd6-41d8-4948-9072-ac1853168224
 Q29951594,Alena Schillerová,Alena Schillerová,female,1964-03-18T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q61882567,Deputy Prime Minister,Q29951594-13B8A8D9-A71C-44D8-82A0-FB0E0FFAF8C4
 Q29951594,Alena Schillerová,Alena Schillerová,female,1964-03-18T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q2207925,Minister of Finance,Q29951594-c888869d-4199-3bdb-6866-f225a96b7598
-Q10819807,Andrej Babiš,Andrej Babiš,male,1954-09-02T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q3409229,Prime Minister,Q10819807-92dd0130-4641-d566-d12e-cc62fdbb3b34
 Q106492664,Jakub Kulhánek,Jakub Kulhánek,male,1984-06-30T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q2501396,Minister of Foreign Affairs,Q106492664-59b3d084-45bc-0da6-6eea-d73d5fb1fb29
 Q12022546,Jan Hamáček,Jan Hamáček,male,1978-11-04T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q61882567,First deputy Prime Minister,Q12022546-AD36ADEA-49BC-4CFD-A3FD-DDB1BB78470C
 Q12022546,Jan Hamáček,Jan Hamáček,male,1978-11-04T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q20058795,Minister of the Interior,Q12022546-1139cf4c-4800-42a2-6f43-32fd587ce950
@@ -15,5 +14,6 @@ Q44853914,Lubomír Metnar,Lubomír Metnar,male,1967-10-06T00:00:00Z,11,https://w
 Q949828,Lubomír Zaorálek,Lubomír Zaorálek,male,1956-09-06T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q45843918,Minister of Culture,Q949828-8e16dcbb-4f24-e78d-7a4d-6d9ec18182ee
 Q12035364,Marie Benešová,Marie Benešová,female,1948-04-17T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q26197353,Minister of Justice,Q12035364-d0140200-4132-99a0-864f-e48050f445fd
 Q13580235,Miroslav Toman,Miroslav Toman,male,1960-02-06T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q28808262,Minister of Agriculture,Q13580235-d016c757-451b-7353-a317-7bbf65ea2790
+Q3377548,Petr Fiala,Petr Fiala,male,1964-09-01T00:00:00Z,11,,Q3409229,Prime Minister of the Czech Republic,Q3377548-cc587e31-4da1-5014-4531-5b48de74ef76
 Q17049347,Richard Brabec,Richard Brabec,male,1966-07-05T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q33702144,Minister for the Environment,Q17049347-053730e5-428a-e597-0cff-3cfd0497623c
 Q44738438,Robert Plaga,Robert Plaga,male,1978-07-21T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q30312984,"Minister for Education, Youth and Sports",Q44738438-f15bd54e-4e44-665e-9505-b598aa3deef1
