@@ -28,7 +28,7 @@
         {
           "sentences": [
             {
-              "text": "Petr Fiala (born 1 September 1964) is a Czech politician and political scientist who has been the Prime Minister-designate of the Czech Republic since 28 November 2021.",
+              "text": "Petr Fiala (born 1 September 1964) is a Czech politician and political scientist, and the Prime Minister-designate of the Czech Republic.",
               "links": [
                 {
                   "text": "Czech",
@@ -67,7 +67,7 @@
         {
           "sentences": [
             {
-              "text": "On 28 November 2021, Fiala was sworn in as Prime Minister by President Miloš Zeman and succeeded Andrej Babiš, while the rest of his cabinet is due to assume responsibilities of the executive branch.",
+              "text": "On 28 November 2021, Fiala was sworn in by President Miloš Zeman to succeed Andrej Babiš, while the rest of his cabinet is due to assume responsibilities of the executive branch.",
               "links": [
                 {
                   "type": "internal",
@@ -145,7 +145,7 @@
             ]
           },
           "term_start": {
-            "text": "28 November 2021"
+            "text": "TBD"
           },
           "succeeding": {
             "text": "Andrej Babiš",
