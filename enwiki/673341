@@ -206,7 +206,7 @@
             ]
           },
           "primeminister": {
-            "text": "Petr Nečas\nJiří Rusnok\nBohuslav Sobotka\nAndrej Babiš\nPetr Fiala",
+            "text": "Petr Nečas\nJiří Rusnok\nBohuslav Sobotka\nAndrej Babiš",
             "links": [
               {
                 "type": "internal",
@@ -223,10 +223,6 @@
               {
                 "type": "internal",
                 "page": "Andrej Babiš"
-              },
-              {
-                "type": "internal",
-                "page": "Petr Fiala"
               }
             ]
           },
