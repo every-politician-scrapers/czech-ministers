@@ -117,7 +117,13 @@
             ]
           },
           "successor": {
-            "text": "TBA"
+            "text": "Michal Šmarda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michal Šmarda"
+              }
+            ]
           },
           "office1": {
             "text": "First Deputy Prime Minister of the Czech Republic",
