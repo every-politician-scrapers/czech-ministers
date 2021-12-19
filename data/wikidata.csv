@@ -1,19 +1,23 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q42575425,Adam Vojtěch,Adam Vojtěch,male,1986-10-02T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q45750372,Minister of Health,Q42575425-15a40cd6-41d8-4948-9072-ac1853168224
-Q29951594,Alena Schillerová,Alena Schillerová,female,1964-03-18T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q61882567,Deputy Prime Minister,Q29951594-13B8A8D9-A71C-44D8-82A0-FB0E0FFAF8C4
-Q29951594,Alena Schillerová,Alena Schillerová,female,1964-03-18T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q2207925,Minister of Finance,Q29951594-c888869d-4199-3bdb-6866-f225a96b7598
-Q106492664,Jakub Kulhánek,Jakub Kulhánek,male,1984-06-30T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q2501396,Minister of Foreign Affairs,Q106492664-59b3d084-45bc-0da6-6eea-d73d5fb1fb29
-Q12022546,Jan Hamáček,Jan Hamáček,male,1978-11-04T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q61882567,First deputy Prime Minister,Q12022546-AD36ADEA-49BC-4CFD-A3FD-DDB1BB78470C
-Q12022546,Jan Hamáček,Jan Hamáček,male,1978-11-04T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q20058795,Minister of the Interior,Q12022546-1139cf4c-4800-42a2-6f43-32fd587ce950
-Q55594748,Jana Maláčová,Jana Maláčová,female,1981-06-24T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q27479703,Minister of Labour and Social Affairs,Q55594748-0DDB8FBD-5BD8-4BEB-83D4-D51F1B11E8A1
-Q62087201,Karel Havlíček,Karel Havlíček,male,1969-08-16T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q61882567,Deputy Prime Minister,Q62087201-0DA9F252-F7AD-420A-AACA-6AB3AF6287CA
-Q62087201,Karel Havlíček,Karel Havlíček,male,1969-08-16T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q25507811,Minister of Industry and Trade,Q62087201-53d3ff8f-e827-4e45-9cc9-a5218dfadf4d
-Q62087201,Karel Havlíček,Karel Havlíček,male,1969-08-16T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q45754140,Minister of Transport,Q62087201-DB56E339-FDE2-492C-B368-32CB1312FC77
-Q25963393,Klára Dostálová,Klára Dostálová,female,1971-03-13T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q25515749,Minister of Regional Development,Q25963393-6237fa05-456f-5c7b-7f14-6d49513f8d67
-Q44853914,Lubomír Metnar,Lubomír Metnar,male,1967-10-06T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q45406265,Minister of Defence,Q44853914-e0801251-4580-1f16-2e11-5f05af86ae65
-Q949828,Lubomír Zaorálek,Lubomír Zaorálek,male,1956-09-06T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q45843918,Minister of Culture,Q949828-8e16dcbb-4f24-e78d-7a4d-6d9ec18182ee
-Q12035364,Marie Benešová,Marie Benešová,female,1948-04-17T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q26197353,Minister of Justice,Q12035364-d0140200-4132-99a0-864f-e48050f445fd
-Q13580235,Miroslav Toman,Miroslav Toman,male,1960-02-06T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q28808262,Minister of Agriculture,Q13580235-d016c757-451b-7353-a317-7bbf65ea2790
-Q3377548,Petr Fiala,Petr Fiala,male,1964-09-01T00:00:00Z,11,,Q3409229,Prime Minister of the Czech Republic,Q3377548-cc587e31-4da1-5014-4531-5b48de74ef76
-Q17049347,Richard Brabec,Richard Brabec,male,1966-07-05T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q33702144,Minister for the Environment,Q17049347-053730e5-428a-e597-0cff-3cfd0497623c
-Q44738438,Robert Plaga,Robert Plaga,male,1978-07-21T00:00:00Z,11,https://www.vlada.cz/en/vlada/,Q30312984,"Minister for Education, Youth and Sports",Q44738438-f15bd54e-4e44-665e-9505-b598aa3deef1
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+Q23908965,Anna Hubáčková,Anna Hubáčková,female,1957-09-06T00:00:00Z,11,https://www.vlada.cz/en/vlada/,2021-12-19T00:00:00Z,Q33702144,Minister for the Environment,2021-12-17T00:00:00Z,Q23908965-b3615754-4a80-b206-ebf4-8cf7c32c9336
+Q12019419,Helena Langšádlová,Helena Langšádlová,female,1963-10-14T00:00:00Z,11,https://www.vlada.cz/en/vlada/,2021-12-19T00:00:00Z,Q59773497,"Minister for the Science, Research and Innovation",2021-12-17T00:00:00Z,Q12019419-97241D47-B012-4A22-B20A-4B0ECC91257D
+Q1292951,Ivan Bartoš,Ivan Bartoš,male,1980-03-20T00:00:00Z,11,https://www.vlada.cz/en/vlada/,2021-12-19T00:00:00Z,Q25515749,Minister of Regional Development,2021-12-17T00:00:00Z,Q1292951-D13EA483-91D8-4BF3-B04B-3D1E74678AA5
+Q1292951,Ivan Bartoš,Ivan Bartoš,male,1980-03-20T00:00:00Z,11,https://www.vlada.cz/en/vlada/,2021-12-19T00:00:00Z,Q61882567,Deputy Prime Minister,2021-12-17T00:00:00Z,Q1292951-21C1A29C-3AAD-4937-830E-7D6467618F90
+Q42402111,Jan Lipavský,Jan Lipavský,male,1985-07-02T00:00:00Z,11,,,Q2501396,Minister of Foreign Affairs,2021-12-17T00:00:00Z,Q42402111-db41d362-434b-a1af-f026-b9d7c893d473
+Q12023473,Jana Černochová,Jana Černochová,female,1973-10-26T00:00:00Z,11,https://www.vlada.cz/en/vlada/,2021-12-19T00:00:00Z,Q45406265,Minister of Defence,2021-12-17T00:00:00Z,Q12023473-CCAC51BD-6C8D-490B-A209-ADDB5150902B
+Q109802768,Jozef Síkela,Jozef Síkela,male,1967-06-17T00:00:00Z,11,,,Q25507811,Minister of Industry and Trade,2021-12-17T00:00:00Z,Q109802768-f2d5fcd7-446a-6367-00dd-24a708711a72
+Q13434626,Marian Jurečka,Marian Jurečka,male,1981-03-15T00:00:00Z,11,,,Q27479703,Minister of Labour and Social Affairs,2021-12-17T00:00:00Z,Q13434626-2E94C815-1404-4542-A42F-2F27D37D3C97
+Q13434626,Marian Jurečka,Marian Jurečka,male,1981-03-15T00:00:00Z,11,,,Q28808262,Minister of Agriculture,2014-01-29T00:00:00Z,Q13434626-BA27446D-A884-4EA6-81FE-A324F1837E06
+Q13434626,Marian Jurečka,Marian Jurečka,male,1981-03-15T00:00:00Z,11,https://www.vlada.cz/en/vlada/,2021-12-19T00:00:00Z,Q61882567,Deputy Prime Minister,2021-12-17T00:00:00Z,Q13434626-6386C380-5797-44CF-A82F-3A76D3FE3CB5
+Q14806386,Martin Baxa,Martin Baxa,male,1975-09-16T00:00:00Z,11,https://www.vlada.cz/en/vlada/,2021-12-19T00:00:00Z,Q45843918,Minister of Culture,2021-12-17T00:00:00Z,Q14806386-9A89138D-4B18-4527-8528-E2F5E920011F
+Q15054146,Martin Kupka,Martin Kupka,male,1975-10-28T00:00:00Z,11,https://www.vlada.cz/en/vlada/,2021-12-19T00:00:00Z,Q45754140,Minister of Transport,2021-12-17T00:00:00Z,Q15054146-E5E3714C-9E37-473E-88B1-F436B4B3B498
+Q55118635,Michal Šalomoun,Michal Šalomoun,male,1974-10-21T00:00:00Z,11,https://www.vlada.cz/en/vlada/,2021-12-19T00:00:00Z,Q59773497,Minister and Chairman of the Legislative Council of the Government of the Czech Republic,2021-12-17T00:00:00Z,Q55118635-4366380C-FB0D-48A7-8479-DE34A52D8B74
+Q12037105,Mikuláš Bek,Mikuláš Bek,male,1964-04-22T00:00:00Z,11,https://www.vlada.cz/en/vlada/,2021-12-19T00:00:00Z,Q12052800,Minister for European Affairs,2021-12-17T00:00:00Z,Q12037105-F5BD0979-68A1-4464-940F-199B1253C39A
+Q3372924,Pavel Blažek,Pavel Blažek,male,1969-04-08T00:00:00Z,11,https://www.vlada.cz/en/vlada/,2021-12-19T00:00:00Z,Q26197353,Minister of Justice,2021-12-17T00:00:00Z,Q3372924-e1040ca1-4d0b-f38b-5988-6ee60577591f
+Q3377548,Petr Fiala,Petr Fiala,male,1964-09-01T00:00:00Z,11,https://www.vlada.cz/en/vlada/,2021-12-19T00:00:00Z,Q3409229,Prime Minister,2021-11-28T00:00:00Z,Q3377548-cc587e31-4da1-5014-4531-5b48de74ef76
+Q2079976,Petr Gazdík,Petr Gazdík,male,1974-06-26T00:00:00Z,11,https://www.vlada.cz/en/vlada/,2021-12-19T00:00:00Z,Q30312984,"Minister for Education, Youth and Sports",2021-12-17T00:00:00Z,Q2079976-6AC4CD07-2445-40BE-BC80-E9F7D5118DF6
+Q30114672,Vlastimil Válek,Vlastimil Válek,male,1960-05-17T00:00:00Z,11,https://www.vlada.cz/en/vlada/,2021-12-19T00:00:00Z,Q45750372,Minister of Health,2021-12-17T00:00:00Z,Q30114672-20e01fe6-4e56-2769-4bab-b4ae9139fb0b
+Q30114672,Vlastimil Válek,Vlastimil Válek,male,1960-05-17T00:00:00Z,11,https://www.vlada.cz/en/vlada/,2021-12-19T00:00:00Z,Q61882567,Deputy Prime Minister,2021-12-17T00:00:00Z,Q30114672-5E5B574C-05B8-4A6F-8261-07C7D3F089A6
+Q22035584,Vít Rakušan,Vít Rakušan,male,1978-06-16T00:00:00Z,11,https://www.vlada.cz/en/vlada/,2021-12-19T00:00:00Z,Q20058795,Minister of the Interior,2021-12-17T00:00:00Z,Q22035584-f9c2621a-4965-ecd2-3eb8-c55e39ac5454
+Q22035584,Vít Rakušan,Vít Rakušan,male,1978-06-16T00:00:00Z,11,https://www.vlada.cz/en/vlada/,2021-12-19T00:00:00Z,Q61882567,1st Deputy Prime Minister,2021-12-17T00:00:00Z,Q22035584-12F466BF-868D-451A-80A6-3504F4E9DD1C
+Q10857406,Zbyněk Stanjura,Zbyněk Stanjura,male,1964-02-15T00:00:00Z,11,https://www.vlada.cz/en/vlada/,2021-12-19T00:00:00Z,Q2207925,Minister of Finance,2021-12-17T00:00:00Z,Q10857406-fd16ee12-4ca7-a572-964c-b0020c4c6282
