@@ -1,0 +1,239 @@
+{
+  "title": "Martin Baxa",
+  "pageID": 54268483,
+  "categories": [
+    "1975 births",
+    "Living people",
+    "Civic Democratic Party (Czech Republic) mayors",
+    "Civic Democratic Party (Czech Republic) MPs",
+    "Young Conservatives (Czech Republic) politicians",
+    "Mayors of places in the Czech Republic",
+    "People from Plzeň",
+    "Members of the Chamber of Deputies of the Czech Republic (2017–2021)",
+    "Members of the Chamber of Deputies of the Czech Republic (2021–2025)",
+    "Civic Democratic Party (Czech Republic) Government ministers",
+    "Culture ministers of the Czech Republic"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Martin Baxa (born 16 September 1975) is a Czech politician who has served as the Czech Minister of Culture in Petr Fiala's Cabinet since December 2021.",
+              "links": [
+                {
+                  "text": "Czech Minister of Culture",
+                  "type": "internal",
+                  "page": "Ministry of Culture (Czech Republic)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Petr Fiala's Cabinet"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Martin Baxa"
+                ]
+              }
+            },
+            {
+              "text": "He has been a member of the Chamber of Deputies (MP) for the Civic Democratic Party (ODS) since October 2017.",
+              "links": [
+                {
+                  "text": "Chamber of Deputies",
+                  "type": "internal",
+                  "page": "Chamber of Deputies of the Czech Republic"
+                },
+                {
+                  "text": "Civic Democratic Party",
+                  "type": "internal",
+                  "page": "Civic Democratic Party (Czech Republic)"
+                }
+              ]
+            },
+            {
+              "text": "He previously served as Mayor of Plzeň from 2010 to 2014, and returned to the position in November 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Plzeň"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Czech politician",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1975",
+          "month": "9",
+          "day": "16",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Martin Baxa"
+          },
+          "image": {
+            "text": "Martin Baxa (cropped).jpg"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament",
+                "anchor": "Czech Republic"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Culture",
+            "links": [
+              {
+                "text": "Minister of Culture",
+                "type": "internal",
+                "page": "Ministry of Culture (Czech Republic)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Petr Fiala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petr Fiala"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "17 December 2021"
+          },
+          "predecessor": {
+            "text": "Lubomír Zaorálek",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lubomír Zaorálek"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the Chamber of Deputies",
+            "links": [
+              {
+                "text": "Chamber of Deputies",
+                "type": "internal",
+                "page": "Chamber of Deputies of the Czech Republic"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "21 October 2017"
+          },
+          "office2": {
+            "text": "Mayor of Plzeň",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Plzeň"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "15 November 2018"
+          },
+          "predecessor2": {
+            "text": "Martin Zrzavecký",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Martin Zrzavecký"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "25 November 2010"
+          },
+          "term_end3": {
+            "text": "6 November 2014"
+          },
+          "predecessor3": {
+            "text": "Pavel Rödl",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pavel Rödl"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Martin Zrzavecký",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Martin Zrzavecký"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Simona Klečková"
+          },
+          "birth_date": {
+            "text": "September 16, 1975"
+          },
+          "birth_place": {
+            "text": "Plzeň, Czechoslovakia (now Czech Republic)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Plzeň"
+              },
+              {
+                "text": "Czechoslovakia",
+                "type": "internal",
+                "page": "Czechoslovak Socialist Republic"
+              },
+              {
+                "type": "internal",
+                "page": "Czech Republic"
+              }
+            ]
+          },
+          "party": {
+            "text": "ODS",
+            "links": [
+              {
+                "text": "ODS",
+                "type": "internal",
+                "page": "Civic Democratic Party (Czech Republic)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Masaryk University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Masaryk University"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

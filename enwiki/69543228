@@ -1,0 +1,179 @@
+{
+  "title": "Vlastimil Válek",
+  "pageID": 69543228,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "Politicians from Brno",
+    "Members of the Chamber of Deputies of the Czech Republic (2017–2021)",
+    "Members of the Chamber of Deputies of the Czech Republic (2021–2025)",
+    "Health ministers of the Czech Republic",
+    "TOP 09 Government ministers",
+    "TOP 09 MPs",
+    "Masaryk University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Vlastimil Válek (born 17 May 1960) is a Czech radiologist and politician, serving as Deputy Prime Minister and Minister of Health since 17 December 2021, in the cabinet of Petr Fiala.",
+              "links": [
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "Ministry of Health (Czech Republic)"
+                },
+                {
+                  "text": "cabinet of Petr Fiala",
+                  "type": "internal",
+                  "page": "Petr Fiala's Cabinet"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Vlastimil Válek"
+                ]
+              }
+            },
+            {
+              "text": "He has been a member of the Chamber of Deputies of the Czech Republic since 2017, representing TOP 09.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chamber of Deputies of the Czech Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "TOP 09"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2021",
+          "template": "blp sources"
+        },
+        {
+          "year": "1960",
+          "month": "5",
+          "day": "17",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Vlastimil Válek"
+          },
+          "image": {
+            "text": "Vlastimil-Válek2019b.jpg"
+          },
+          "caption": {
+            "text": "Vlastimil Válek in 2019"
+          },
+          "office": {
+            "text": "Minister of Health",
+            "links": [
+              {
+                "text": "Minister of Health",
+                "type": "internal",
+                "page": "Ministry of Health (Czech Republic)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Petr Fiala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petr Fiala"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "17 December 2021"
+          },
+          "predecessor": {
+            "text": "Adam Vojtěch",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adam Vojtěch"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Chamber of Deputies",
+            "links": [
+              {
+                "text": "Chamber of Deputies",
+                "type": "internal",
+                "page": "Chamber of Deputies of the Czech Republic"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "21 October 2017"
+          },
+          "birth_date": {
+            "text": "May 17, 1960"
+          },
+          "birth_place": {
+            "text": "Brno, Czechoslovakia (now Czech Republic)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Brno"
+              },
+              {
+                "type": "internal",
+                "page": "Czechoslovakia"
+              }
+            ]
+          },
+          "party": {
+            "text": "TOP 09 (2013–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "TOP 09"
+              }
+            ]
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "alma_mater": {
+            "text": "Masaryk University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Masaryk University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Vlastimil Valek",
+          "url": "https://www.vlada.cz/cz/clenove-vlady/vlastimil-valek-191700/",
+          "website": "vlada.cz",
+          "publisher": "Government of the Czech Republic",
+          "access-date": "18 December 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

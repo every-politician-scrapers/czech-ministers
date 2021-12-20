@@ -29,7 +29,7 @@
         {
           "sentences": [
             {
-              "text": "Petr Fiala (born 1 September 1964) is a Czech politician and political scientist, and the Prime Minister-designate of the Czech Republic.",
+              "text": "Petr Fiala (born 1 September 1964) is a Czech politician and political scientist who has served as the Prime Minister of the Czech Republic since 17 December 2021.",
               "links": [
                 {
                   "text": "Czech",
@@ -37,7 +37,6 @@
                   "page": "Czech Republic"
                 },
                 {
-                  "text": "Prime Minister-designate of the Czech Republic",
                   "type": "internal",
                   "page": "Prime Minister of the Czech Republic"
                 }
@@ -60,23 +59,6 @@
                   "text": "Minister of Education, Youth and Sports",
                   "type": "internal",
                   "page": "Ministry of Education, Youth and Sports (Czech Republic)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "On 28 November 2021, Fiala was sworn in by President Miloš Zeman to succeed Andrej Babiš, while the rest of his cabinet is due to assume responsibilities of the executive branch.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Miloš Zeman"
-                },
-                {
-                  "type": "internal",
-                  "page": "Andrej Babiš"
                 }
               ]
             }
@@ -105,6 +87,10 @@
             "Charles University in Prague"
           ],
           "template": "ubl"
+        },
+        {
+          "transcription": "ˈpɛtr̩ ˈfɪjala",
+          "template": "ipa"
         }
       ],
       "infoboxes": [
@@ -127,10 +113,9 @@
             "text": "Petr Fiala 2019 Praha.jpg"
           },
           "office": {
-            "text": "Prime Minister-designate of the Czech Republic",
+            "text": "Prime Minister of the Czech Republic",
             "links": [
               {
-                "text": "Prime Minister-designate of the Czech Republic",
                 "type": "internal",
                 "page": "Prime Minister of the Czech Republic"
               }
@@ -147,15 +132,6 @@
           },
           "term_start": {
             "text": "17 December 2021"
-          },
-          "succeeding": {
-            "text": "Andrej Babiš",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andrej Babiš"
-              }
-            ]
           },
           "predecessor": {
             "text": "Andrej Babiš",
@@ -205,7 +181,13 @@
             "text": "10 July 2013"
           },
           "primeminister3": {
-            "text": "Petr Nečas"
+            "text": "Petr Nečas",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petr Nečas"
+              }
+            ]
           },
           "predecessor3": {
             "text": "Josef Dobeš"
@@ -239,6 +221,10 @@
               {
                 "type": "internal",
                 "page": "Czechoslovakia"
+              },
+              {
+                "type": "internal",
+                "page": "Czech Republic"
               }
             ]
           },
@@ -258,19 +244,6 @@
           "website": {
             "text": "http://pfiala.cz"
           }
-        }
-      ],
-      "references": [
-        {
-          "last": "Reuters",
-          "date": "2021-11-28",
-          "title": "Czech president appoints Petr Fiala as prime minister",
-          "language": "en",
-          "work": "Reuters",
-          "url": "https://www.reuters.com/world/europe/czech-president-appoints-petr-fiala-prime-minister-2021-11-28/",
-          "access-date": "2021-11-28",
-          "template": "citation",
-          "type": "news"
         }
       ]
     }

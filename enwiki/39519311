@@ -1,17 +1,16 @@
 {
-  "title": "Marie Benešová",
-  "pageID": 51959026,
+  "title": "Pavel Blažek",
+  "pageID": 39519311,
   "categories": [
-    "1948 births",
-    "Politicians from Prague",
-    "Charles University alumni",
-    "Czech Social Democratic Party MPs",
-    "Justice ministers of the Czech Republic",
+    "1969 births",
     "Living people",
+    "Politicians from Brno",
+    "Civic Democratic Party (Czech Republic) MPs",
+    "Justice ministers of the Czech Republic",
+    "Civic Democratic Party (Czech Republic) Government ministers",
+    "Members of the Chamber of Deputies of the Czech Republic (2017–2021)",
     "Members of the Chamber of Deputies of the Czech Republic (2013–2017)",
-    "ANO 2011 Government ministers",
-    "Czech lawyers",
-    "Female justice ministers"
+    "Members of the Chamber of Deputies of the Czech Republic (2021–2025)"
   ],
   "sections": [
     {
@@ -21,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Marie Benešová (born 17 April 1948) is a Czech politician and lawyer who is the current Minister of Justice under Prime Minister Andrej Babiš.",
+              "text": "Pavel Blažek (born 8 April 1969) is a Czech politician, who served as Minister of Justice of the Czech Republic since 2021, a post he previously held from July 2012 to July 2013 in Cabinet of Petr Nečas.",
               "links": [
                 {
                   "text": "Czech",
@@ -29,27 +28,29 @@
                   "page": "Czech Republic"
                 },
                 {
-                  "text": "Minister of Justice",
+                  "text": "politician",
                   "type": "internal",
-                  "page": "Ministry of Justice (Czech Republic)"
+                  "page": "politician"
                 },
                 {
+                  "text": "Cabinet of Petr Nečas",
                   "type": "internal",
-                  "page": "Andrej Babiš"
+                  "page": "Petr Nečas' Cabinet"
                 }
               ],
               "formatting": {
                 "bold": [
-                  "Marie Benešová"
+                  "Pavel Blažek"
                 ]
               }
             },
             {
-              "text": "She held the position previously between 2013 and 2014, as part of Jiří Rusnok's Cabinet.",
+              "text": "He has been a Member of the Chamber of Deputies (MP) since 26 October 2013.",
               "links": [
                 {
+                  "text": "Chamber of Deputies",
                   "type": "internal",
-                  "page": "Jiří Rusnok's Cabinet"
+                  "page": "Chamber of Deputies of the Czech Republic"
                 }
               ]
             }
@@ -58,28 +59,41 @@
       ],
       "templates": [
         {
-          "description": "Czech politician and lawyer",
-          "template": "short description"
+          "list": [
+            "Pavel Blažek (politik)"
+          ],
+          "date": "May 2013",
+          "template": "expand czech"
         },
         {
-          "date": "June 2018",
-          "template": "use dmy dates"
-        },
-        {
-          "df": "y",
-          "year": "1948",
+          "year": "1969",
           "month": "4",
-          "day": "17",
+          "day": "8",
+          "df": "yes",
           "template": "birth date and age"
         }
       ],
       "infoboxes": [
         {
           "name": {
-            "text": "Marie Benešová"
+            "text": "Pavel Blažek"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament",
+                "anchor": "Czech Republic"
+              }
+            ]
           },
           "image": {
-            "text": "[[File:MarieBenesova.jpg]]"
+            "text": "Blazek Pavel.jpg"
+          },
+          "caption": {
+            "text": "Pavel Blažek in 2014"
           },
           "office": {
             "text": "Minister of Justice",
@@ -92,56 +106,56 @@
             ]
           },
           "term_start": {
-            "text": "30 April 2019"
+            "text": "17 December 2021"
           },
           "primeminister": {
-            "text": "Andrej Babiš",
+            "text": "Petr Fiala",
             "links": [
               {
                 "type": "internal",
-                "page": "Andrej Babiš"
+                "page": "Petr Fiala"
               }
             ]
           },
           "predecessor": {
-            "text": "Jan Kněžínek",
+            "text": "Marie Benešová",
             "links": [
               {
                 "type": "internal",
-                "page": "Jan Kněžínek"
+                "page": "Marie Benešová"
               }
             ]
           },
           "term_start1": {
-            "text": "10 July 2013"
+            "text": "3 July 2012"
           },
           "term_end1": {
-            "text": "29 January 2014"
+            "text": "10 July 2013"
           },
           "primeminister1": {
-            "text": "Jiří Rusnok",
+            "text": "Petr Nečas",
             "links": [
               {
                 "type": "internal",
-                "page": "Jiří Rusnok"
+                "page": "Petr Nečas"
               }
             ]
           },
           "predecessor1": {
-            "text": "Pavel Blažek",
+            "text": "Jiří Pospíšil",
             "links": [
               {
                 "type": "internal",
-                "page": "Pavel Blažek"
+                "page": "Jiří Pospíšil"
               }
             ]
           },
           "successor1": {
-            "text": "Helena Válková",
+            "text": "Marie Benešová",
             "links": [
               {
                 "type": "internal",
-                "page": "Helena Válková"
+                "page": "Marie Benešová"
               }
             ]
           },
@@ -158,18 +172,15 @@
           "term_start2": {
             "text": "26 October 2013"
           },
-          "term_end2": {
-            "text": "26 October 2017"
-          },
           "birth_date": {
-            "text": "April 17, 1948"
+            "text": "April 8, 1969"
           },
           "birth_place": {
-            "text": "Prague, Czechoslovakia",
+            "text": "Brno, Czechoslovakia",
             "links": [
               {
                 "type": "internal",
-                "page": "Prague"
+                "page": "Brno"
               },
               {
                 "type": "internal",
@@ -177,39 +188,16 @@
               }
             ]
           },
-          "occupation": {
-            "text": "politician, lawyer"
-          },
           "party": {
-            "text": "Social Democratic Party",
+            "text": "Civic Democratic Party",
             "links": [
               {
-                "text": "Social Democratic Party",
+                "text": "Civic Democratic Party",
                 "type": "internal",
-                "page": "Czech Social Democratic Party"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Charles University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Charles University"
+                "page": "Civic Democratic Party (Czech Republic)"
               }
             ]
           }
-        }
-      ],
-      "references": [
-        {
-          "url": "http://zpravy.idnes.cz/zeman-jmenoval-rusnokovu-vladu-ma-zabranit-tlakum-na-vysetrovani-10c-/domaci.aspx?c=A130710_074801_domaci_jpl",
-          "title": "Zeman jmenoval Rusnokovu vládu. Čeká, že zabrání tlakům na policii",
-          "language": "cs",
-          "date": "10 July 2013",
-          "accessdate": "11 October 2016",
-          "template": "citation",
-          "type": "web"
         }
       ]
     }
