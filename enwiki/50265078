@@ -1,0 +1,289 @@
+{
+  "title": "Petr Gazdík",
+  "pageID": 50265078,
+  "categories": [
+    "1974 births",
+    "Living people",
+    "Members of the Chamber of Deputies of the Czech Republic (2017–2021)",
+    "Mayors of places in the Czech Republic",
+    "Mayors and Independents politicians",
+    "People from Uherské Hradiště",
+    "Members of the Chamber of Deputies of the Czech Republic (2010–2013)",
+    "Members of the Chamber of Deputies of the Czech Republic (2013–2017)",
+    "Members of the Chamber of Deputies of the Czech Republic (2021–2025)",
+    "Mayors and Independents Government ministers",
+    "Leaders of the Mayors and Independents",
+    "Education ministers of the Czech Republic"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Petr Gazdík (born 26 June 1974) is a Czech politician who has been member of the Chamber of Deputies since 2010 and Leader of Mayors and Independents party from 2009 to 2014 and 2016 to 2019.",
+              "links": [
+                {
+                  "text": "Czech",
+                  "type": "internal",
+                  "page": "Czech Republic"
+                },
+                {
+                  "text": "Chamber of Deputies",
+                  "type": "internal",
+                  "page": "Chamber of Deputies of the Czech Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mayors and Independents"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Petr Gazdík"
+                ]
+              }
+            },
+            {
+              "text": "Previously he was a mayor of Suchá Loz.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Suchá Loz"
+                }
+              ]
+            },
+            {
+              "text": "He is married and he has four children."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "October 2017",
+          "template": "blp sources"
+        },
+        {
+          "langcode": "cs",
+          "otherarticle": "Petr Gazdík (politik)",
+          "date": "October 2017",
+          "template": "expand language"
+        },
+        {
+          "year": "1974",
+          "month": "6",
+          "day": "26",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Petr Gazdík"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament",
+                "anchor": "Czech Republic"
+              }
+            ]
+          },
+          "image": {
+            "text": "Praha, Národní třída, 17 listopadu 2017, Petr Gazdík (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister of Education, Youth and Sports",
+            "links": [
+              {
+                "text": "Minister of Education, Youth and Sports",
+                "type": "internal",
+                "page": "Ministry of Education, Youth and Sports (Czech Republic)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Petr Fiala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petr Fiala"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "17 December 2021"
+          },
+          "predecessor": {
+            "text": "Robert Plaga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Robert Plaga"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Deputy Speaker of the Chamber of Deputies",
+            "links": [
+              {
+                "text": "Chamber of Deputies",
+                "type": "internal",
+                "page": "Chamber of Deputies of the Czech Republic"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "12 December 2013"
+          },
+          "term_end1": {
+            "text": "24 November 2017"
+          },
+          "office2": {
+            "text": "Leader of STAN",
+            "links": [
+              {
+                "text": "STAN",
+                "type": "internal",
+                "page": "Mayors and Independents"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "16 April 2016"
+          },
+          "term_end2": {
+            "text": "13 April 2019"
+          },
+          "predecessor2": {
+            "text": "Martin Půta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Martin Půta"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Vít Rakušan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vít Rakušan"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "19 February 2009"
+          },
+          "term_end3": {
+            "text": "28 March 2014"
+          },
+          "predecessor3": {
+            "text": "Josef Zicha",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Josef Zicha"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Martin Půta",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Martin Půta"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Member of the Chamber of Deputies",
+            "links": [
+              {
+                "text": "Chamber of Deputies",
+                "type": "internal",
+                "page": "Chamber of Deputies of the Czech Republic"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "29 May 2010"
+          },
+          "birth_date": {
+            "text": "June 26, 1974"
+          },
+          "birth_place": {
+            "text": "Uherské Hradiště, Czechoslovakia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Uherské Hradiště"
+              },
+              {
+                "type": "internal",
+                "page": "Czechoslovakia"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Masaryk university",
+            "links": [
+              {
+                "text": "Masaryk university",
+                "type": "internal",
+                "page": "Masaryk University"
+              }
+            ]
+          },
+          "party": {
+            "text": "Mayors and Independents (2004-present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mayors and Independents"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "teacher"
+          },
+          "website": {
+            "text": "www.gazdik.cz",
+            "links": [
+              {
+                "text": "www.gazdik.cz",
+                "type": "external",
+                "site": "http://www.gazdik.cz"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.starostove-nezavisli.cz/nasi-lide/predsednictvo-stan/petr-gazdik.html",
+          "title": "Petr Gazdík",
+          "accessdate": "21 April 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://zpravy.idnes.cz/gazdik-stan-predseda-volba-dcx-/domaci.aspx?c=A170325_115336_domaci_bur",
+          "title": "Gazdík je staronovým šéfem STAN, dostal přes 93 procent hlasů",
+          "date": "25 March 2017",
+          "accessdate": "25 March 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}
