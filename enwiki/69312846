@@ -146,7 +146,7 @@
             "text": "17 December 2021"
           },
           "predecessor": {
-            "text": "Juraj Chmiel",
+            "text": "Juraj Chmiel (2010)",
             "links": [
               {
                 "type": "internal",
@@ -155,7 +155,7 @@
             ]
           },
           "office1": {
-            "text": "Senator from Brno-City",
+            "text": "Senator from Brno",
             "links": [
               {
                 "text": "Senator",
@@ -163,9 +163,8 @@
                 "page": "Senate of the Czech Republic"
               },
               {
-                "text": "Brno-City",
                 "type": "internal",
-                "page": "Senate district 55 – Brno-City"
+                "page": "Brno"
               }
             ]
           },

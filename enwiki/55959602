@@ -148,6 +148,27 @@
           "term_start2": {
             "text": "26 March 2012"
           },
+          "term_end2": {
+            "text": "20 December 2021"
+          },
+          "predecessor2": {
+            "text": "Jiří Paluska",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jiří Paluska"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Alexandra Udženija",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alexandra Udženija"
+              }
+            ]
+          },
           "birth_date": {
             "text": "October 26, 1973"
           },
