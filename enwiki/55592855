@@ -152,18 +152,15 @@
           "successor2": {
             "text": "Vacant"
           },
-          "title3": {
-            "text": "Minister of Regional Development",
+          "office3": {
+            "text": "Deputy Prime Minister for Digitalization of the Czech Republic",
             "links": [
               {
-                "text": "Minister of Regional Development",
+                "text": "Deputy Prime Minister for Digitalization of the Czech Republic",
                 "type": "internal",
-                "page": "Ministry of Regional Development (Czech Republic)"
+                "page": "Petr Fiala's Cabinet"
               }
             ]
-          },
-          "term_start3": {
-            "text": "17 December 2021"
           },
           "primeminister3": {
             "text": "Petr Fiala",
@@ -174,7 +171,32 @@
               }
             ]
           },
-          "predecessor3": {
+          "term_start3": {
+            "text": "17 December 2021"
+          },
+          "title4": {
+            "text": "Minister of Regional Development",
+            "links": [
+              {
+                "text": "Minister of Regional Development",
+                "type": "internal",
+                "page": "Ministry of Regional Development (Czech Republic)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "17 December 2021"
+          },
+          "primeminister4": {
+            "text": "Petr Fiala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petr Fiala"
+              }
+            ]
+          },
+          "predecessor4": {
             "text": "Klára Dostálová",
             "links": [
               {
@@ -183,7 +205,7 @@
               }
             ]
           },
-          "office4": {
+          "office5": {
             "text": "Member of the Chamber of Deputies",
             "links": [
               {
@@ -193,7 +215,7 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start5": {
             "text": "21 October 2017"
           },
           "birth_date": {

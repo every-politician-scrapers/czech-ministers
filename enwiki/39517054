@@ -202,7 +202,19 @@
           "term_start2": {
             "text": "6 December 2013"
           },
+          "term_end2": {
+            "text": "13 December 2021"
+          },
           "predecessor2": {
+            "text": "Marek Benda",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marek Benda"
+              }
+            ]
+          },
+          "successor2": {
             "text": "Marek Benda",
             "links": [
               {

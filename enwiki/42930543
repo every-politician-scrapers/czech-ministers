@@ -139,18 +139,15 @@
               }
             ]
           },
-          "title1": {
-            "text": "Minister of Labour and Social Affairs",
+          "office1": {
+            "text": "Deputy Prime Minister of the Czech Republic",
             "links": [
               {
-                "text": "Minister of Labour and Social Affairs",
+                "text": "Deputy Prime Minister of the Czech Republic",
                 "type": "internal",
-                "page": "Ministry of Labour and Social Affairs (Czech Republic)"
+                "page": "Petr Fiala's Cabinet"
               }
             ]
-          },
-          "term_start1": {
-            "text": "17 December 2021"
           },
           "primeminister1": {
             "text": "Petr Fiala",
@@ -161,7 +158,32 @@
               }
             ]
           },
-          "predecessor1": {
+          "term_start1": {
+            "text": "17 December 2021"
+          },
+          "title2": {
+            "text": "Minister of Labour and Social Affairs",
+            "links": [
+              {
+                "text": "Minister of Labour and Social Affairs",
+                "type": "internal",
+                "page": "Ministry of Labour and Social Affairs (Czech Republic)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "17 December 2021"
+          },
+          "primeminister2": {
+            "text": "Petr Fiala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petr Fiala"
+              }
+            ]
+          },
+          "predecessor2": {
             "text": "Jana Maláčová",
             "links": [
               {
@@ -170,32 +192,29 @@
               }
             ]
           },
-          "office2": {
-            "text": "12th Minister of Agriculture of the Czech Republic",
+          "office3": {
+            "text": "Minister of Agriculture",
             "links": [
               {
-                "text": "Minister of Agriculture of the Czech Republic",
+                "text": "Minister of Agriculture",
                 "type": "internal",
                 "page": "Ministry of Agriculture (Czech Republic)"
               }
             ]
           },
-          "primeminister2": {
-            "text": "Bohuslav Sobotka",
+          "primeminister3": {
+            "text": "Petr Fiala",
             "links": [
               {
                 "type": "internal",
-                "page": "Bohuslav Sobotka"
+                "page": "Petr Fiala"
               }
             ]
           },
-          "term_start2": {
-            "text": "29 January 2014"
+          "term_start3": {
+            "text": "17 December 2021"
           },
-          "term_end2": {
-            "text": "13 December 2017"
-          },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Miroslav Toman",
             "links": [
               {
@@ -204,7 +223,31 @@
               }
             ]
           },
-          "successor2": {
+          "primeminister4": {
+            "text": "Bohuslav Sobotka",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bohuslav Sobotka"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "29 January 2014"
+          },
+          "term_end4": {
+            "text": "13 December 2017"
+          },
+          "predecessor4": {
+            "text": "Miroslav Toman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Miroslav Toman"
+              }
+            ]
+          },
+          "successor4": {
             "text": "Jiří Milek",
             "links": [
               {
@@ -213,7 +256,7 @@
               }
             ]
           },
-          "office3": {
+          "office5": {
             "text": "Member of the Chamber of Deputies",
             "links": [
               {
@@ -223,7 +266,7 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start5": {
             "text": "26 October 2013"
           },
           "birth_date": {
