@@ -141,11 +141,15 @@
             "text": "July 2, 1985"
           },
           "birth_place": {
-            "text": "Prague, Czech Republic",
+            "text": "Prague, Czechoslovakia\n(now Czech Republic)",
             "links": [
               {
                 "type": "internal",
                 "page": "Prague"
+              },
+              {
+                "type": "internal",
+                "page": "Czechoslovakia"
               },
               {
                 "type": "internal",
