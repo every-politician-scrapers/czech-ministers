@@ -1,0 +1,28 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q1819381,President of the Czech Republic,Q213,Q213,,Q878179,1993-01-01,,,,President of the Czech Republic
+Q3409229,Prime Minister of the Czech Republic,Q213,Q213,,Q390415,1993-01-01,,,,Prime Minister of the Czech Republic
+Q61882567,Deputy Prime Minister of the Czech Republic,Q213,Q213,,,,,,,
+Q28808262,Minister of Agriculture,Q213,Q213,,Q12052831,,,,,
+Q45843918,Minister of Culture of the Czech Republic,Q213,Q213,,Q12052791,,,,,
+Q45406265,Minister of Defence of the Czech Republic,Q213,Q213,,Q12052796,1992-12-08,,,,
+Q30312984,"Minister of Education, Youth and Sports",Q213,Q213,,Q12052836,,,,,
+Q33702144,Minister of the Environment,Q213,Q213,,Q12053194,,,,,
+Q12052800,Minister for European Affairs,Q213,,,,2007,,,,
+Q2207925,Finance Minister of the Czech Republic,Q213,Q213,,Q20675972,1969,,,,Finance Minister of the Czech Republic
+Q2501396,Minister of Foreign Affairs,Q213,Q213,,Q47003740,1993-01-01,,Q47253034,,Minister of Foreign Affairs (Czech Republic)
+Q45750372,Minister of Health of the Czech Republic,Q213,Q213,,Q12052827,1969-01-08,,Q108923236,,
+Q47519610,Minister of the Czech Republic for Human Rights,Q213,Q213,,Q12052801,,2017-12-13,,,
+Q25507811,Minister of Industry and Trade,Q213,Q213,,Q12052809,,,,,
+Q20058795,Minister of the Interior of the Czech Republic,Q213,Q213,,Q12052820,,,,,
+Q26197353,Minister of Justice of the Czech Republic,Q213,Q213,,Q12052813,,,,,
+Q27479703,Minister of Labour and Social Affairs,Q213,Q213,,Q12052805,,,,,
+Q25515749,Minister for Regional Development,Q213,Q213,,Q12052802,1996,,,,
+Q45754140,Minister of Transport of the Czech Republic,Q213,Q213,,Q12053193,,,,,
+Q59773497,Minister of the Czech Republic without portfolio,Q213,Q213,,Q12052783,,,,,
+Q3210181,President of the Senate of the Czech Republic,Q213,Q213,,Q59773505,1993-01-01,,,,President of the Senate of the Czech Republic
+Q5068060,Chair of the Chamber of Deputies of the Parliament of the Czech Republic,Q213,Q213,,,1993-01-01,,,,President of the Chamber of Deputies (Czech Republic)
+Q15712674,Head of the Office of the Czech Government,Q213,Q213,,,,,,,
+Q26197430,Prosecutor General of the Czech Republic,Q213,Q213,,,,,,,
+Q11892806,Public Defender of Rights of the Czech Republic,Q213,Q213,,,2000-02-28,,,,
+Q25505764,Governor of the Czech National Bank,Q213,,,,,,,,
+Q17149373,Mayor of Prague,Q213,Q1085,,Q1553961,,,Q99372739,,
