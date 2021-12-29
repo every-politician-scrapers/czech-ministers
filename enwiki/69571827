@@ -1,0 +1,163 @@
+{
+  "title": "Jozef Síkela",
+  "pageID": 69571827,
+  "categories": [
+    "1967 births",
+    "Living people",
+    "People from Rokycany",
+    "Industry and Trade ministers of the Czech Republic",
+    "Government ministers of the Czech Republic",
+    "Mayors and Independents Government ministers",
+    "Czech businesspeople"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jozef Síkela (born 17 June 1967) is a Czech politician, investor and manager who has served as Minister of Industry and Trade in Petr Fiala's Cabinet since December 2021.",
+              "links": [
+                {
+                  "text": "Minister of Industry and Trade",
+                  "type": "internal",
+                  "page": "Ministry of Industry and Trade (Czech Republic)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Petr Fiala's Cabinet"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jozef Síkela"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Czech politician",
+          "template": "short description"
+        },
+        {
+          "year": "1967",
+          "month": "06",
+          "day": "17",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jozef Síkela"
+          },
+          "office": {
+            "text": "Minister of Industry and Trade",
+            "links": [
+              {
+                "text": "Minister of Industry and Trade",
+                "type": "internal",
+                "page": "Ministry of Industry and Trade (Czech Republic)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Petr Fiala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petr Fiala"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "17 December 2021"
+          },
+          "predecessor": {
+            "text": "Karel Havlíček",
+            "links": [
+              {
+                "text": "Karel Havlíček",
+                "type": "internal",
+                "page": "Karel Havlíček (politician)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "June 17, 1967"
+          },
+          "birth_place": {
+            "text": "Rokycany, Czechoslovakia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rokycany"
+              },
+              {
+                "type": "internal",
+                "page": "Czechoslovakia"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Prague University of Economics and Business",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prague University of Economics and Business"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent (nominated by Mayors and Independents)",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              },
+              {
+                "type": "internal",
+                "page": "Mayors and Independents"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician, investor, manager"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Zeman to name Petr Fiala prime minister next Friday",
+          "url": "https://english.radio.cz/zeman-name-petr-fiala-prime-minister-next-friday-8734290",
+          "access-date": "19 November 2021",
+          "work": "Radio Prague International",
+          "date": "17 November 2021",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Jozef Síkela",
+          "url": "https://www.vlada.cz/en/clenove-vlady/jozef-sikela-191712/",
+          "language": "en",
+          "website": "vlada.cz",
+          "author": "Government of the Czech Republic",
+          "author-link": "Government of the Czech Republic",
+          "publisher": "The Office of the Government of the Czech Republic",
+          "date": "December 2021",
+          "access-date": "22 December 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    }
+  ]
+}

@@ -29,7 +29,7 @@
         {
           "sentences": [
             {
-              "text": "Petr Fiala (born 1 September 1964) is a Czech politician and political scientist who has served as the Prime Minister of the Czech Republic since November 2021 and leader of the Civic Democratic Party (ODS) since 2014.",
+              "text": "Petr Fiala (born 1 September 1964) is a Czech politician and political scientist who has been the Prime Minister of the Czech Republic since November 2021 and leader of the Civic Democratic Party (ODS) since 2014.",
               "links": [
                 {
                   "text": "Czech",
@@ -59,6 +59,184 @@
                   "text": "Minister of Education, Youth and Sports",
                   "type": "internal",
                   "page": "Ministry of Education, Youth and Sports (Czech Republic)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Fiala was first elected to the Chamber of Deputies as a non-partisan in the 2013 snap election.",
+              "links": [
+                {
+                  "text": "Chamber of Deputies",
+                  "type": "internal",
+                  "page": "Chamber of Deputies of the Czech Republic"
+                },
+                {
+                  "text": "2013 snap election",
+                  "type": "internal",
+                  "page": "2013 Czech legislative election"
+                }
+              ]
+            },
+            {
+              "text": "He became leader of ODS in January 2014, promising to reform the party and regain public trust after a corruption scandal involving Prime Minister Petr Nečas.",
+              "links": [
+                {
+                  "text": "corruption scandal",
+                  "type": "internal",
+                  "page": "2013 Czech political corruption scandal"
+                },
+                {
+                  "type": "internal",
+                  "page": "Petr Nečas"
+                }
+              ]
+            },
+            {
+              "text": "Fiala led ODS to a distant second place in the 2017 legislative election, taking the party into opposition despite multiple offers from the then-incoming Prime Minister Andrej Babiš to participate in his governing coalition.",
+              "links": [
+                {
+                  "text": "2017 legislative election",
+                  "type": "internal",
+                  "page": "2017 Czech legislative election"
+                },
+                {
+                  "text": "opposition",
+                  "type": "internal",
+                  "page": "Parliamentary opposition"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andrej Babiš"
+                },
+                {
+                  "text": "governing coalition",
+                  "type": "internal",
+                  "page": "Executive (government)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2020, he was the driving force behind a centre-right electoral alliance Spolu, which was formed with KDU-ČSL and TOP 09.",
+              "links": [
+                {
+                  "text": "centre-right",
+                  "type": "internal",
+                  "page": "Centre-right politics"
+                },
+                {
+                  "text": "Spolu",
+                  "type": "internal",
+                  "page": "Spolu (Czech Republic)"
+                },
+                {
+                  "type": "internal",
+                  "page": "KDU-ČSL"
+                },
+                {
+                  "type": "internal",
+                  "page": "TOP 09"
+                }
+              ]
+            },
+            {
+              "text": "Fiala became its candidate for the premiership in the 2021 election running on a pro-Western and pro-European centre-right platform, focused on fiscal responsibility and closer relations with NATO.",
+              "links": [
+                {
+                  "text": "2021 election",
+                  "type": "internal",
+                  "page": "2021 Czech legislative election"
+                },
+                {
+                  "text": "pro-Western",
+                  "type": "internal",
+                  "page": "Atlanticism"
+                },
+                {
+                  "text": "pro-European",
+                  "type": "internal",
+                  "page": "Pro-Europeanism"
+                },
+                {
+                  "text": "fiscal responsibility",
+                  "type": "internal",
+                  "page": "Balanced budget"
+                },
+                {
+                  "type": "internal",
+                  "page": "NATO"
+                }
+              ]
+            },
+            {
+              "text": "The alliance outperformed initial opinion polls and finished first in the election, though with one less seat in the Chamber of Deputies than second-place ANO 2011.",
+              "links": [
+                {
+                  "text": "opinion polls",
+                  "type": "internal",
+                  "page": "Opinion polling for the 2021 Czech legislative election"
+                },
+                {
+                  "type": "internal",
+                  "page": "ANO 2011"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Under Fiala's leadership, Spolu formed a coalition government with the Pirates and Mayors alliance, with a comfortable majority of 108 out of 200 seats.",
+              "links": [
+                {
+                  "text": "coalition government",
+                  "type": "internal",
+                  "page": "Coalition agreement"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pirates and Mayors"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed Prime Minister by President Miloš Zeman on 28 November 2021 and his government took power on 17 December 2021, making him the third oldest person to hold the office, as well as the first with a political science background and the first from Brno.",
+              "links": [
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of the Czech Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "Miloš Zeman"
+                },
+                {
+                  "text": "his government",
+                  "type": "internal",
+                  "page": "Petr Fiala's Cabinet"
+                },
+                {
+                  "text": "third oldest person",
+                  "type": "internal",
+                  "page": "List of prime ministers of the Czech Republic"
+                },
+                {
+                  "text": "political science",
+                  "type": "internal",
+                  "page": "political science"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brno"
                 }
               ]
             }
@@ -110,7 +288,7 @@
             ]
           },
           "image": {
-            "text": "Fiala21.jpg"
+            "text": "Petr Fiala 2019 Praha.jpg"
           },
           "office": {
             "text": "Prime Minister of the Czech Republic",
@@ -127,6 +305,27 @@
               {
                 "type": "internal",
                 "page": "Miloš Zeman"
+              }
+            ]
+          },
+          "deputy": {
+            "text": "Vít Rakušan\nMarian Jurečka\nVlastimil Válek Ivan Bartoš",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vít Rakušan"
+              },
+              {
+                "type": "internal",
+                "page": "Marian Jurečka"
+              },
+              {
+                "type": "internal",
+                "page": "Vlastimil Válek"
+              },
+              {
+                "type": "internal",
+                "page": "Ivan Bartoš"
               }
             ]
           },
