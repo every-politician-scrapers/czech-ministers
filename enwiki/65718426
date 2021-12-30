@@ -178,6 +178,24 @@
           "term_end3": {
             "text": "13 April 2019"
           },
+          "predecessor3": {
+            "text": "Petr Gazdík",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petr Gazdík"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Jan Farský",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jan Farský"
+              }
+            ]
+          },
           "office4": {
             "text": "Member of the Chamber of Deputies",
             "links": [
@@ -230,6 +248,16 @@
               {
                 "type": "internal",
                 "page": "Mayors and Independents"
+              }
+            ]
+          },
+          "website": {
+            "text": "vitrakusan.cz",
+            "links": [
+              {
+                "text": "vitrakusan.cz",
+                "type": "external",
+                "site": "http://www.vitrakusan.cz"
               }
             ]
           }
