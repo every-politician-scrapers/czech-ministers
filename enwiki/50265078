@@ -217,6 +217,40 @@
           "term_start4": {
             "text": "29 May 2010"
           },
+          "office5": {
+            "text": "1st Vice-Chair of STAN",
+            "links": [
+              {
+                "text": "STAN",
+                "type": "internal",
+                "page": "Mayors and Independents"
+              }
+            ]
+          },
+          "termstart5": {
+            "text": "28 March 2014"
+          },
+          "termend5": {
+            "text": "16 April 2016"
+          },
+          "predecessor5": {
+            "text": "Stanislav Polčák",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stanislav Polčák"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Vít Rakušan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vít Rakušan"
+              }
+            ]
+          },
           "birth_date": {
             "text": "June 26, 1974"
           },
