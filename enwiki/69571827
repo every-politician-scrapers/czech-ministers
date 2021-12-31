@@ -45,6 +45,13 @@
           "template": "short description"
         },
         {
+          "list": [
+            "Jozef Síkela"
+          ],
+          "date": "December 2021",
+          "template": "expand czech"
+        },
+        {
           "year": "1967",
           "month": "06",
           "day": "17",

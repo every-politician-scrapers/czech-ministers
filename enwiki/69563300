@@ -59,6 +59,13 @@
           "template": "short description"
         },
         {
+          "list": [
+            "Helena Langšádlová"
+          ],
+          "date": "December 2021",
+          "template": "expand czech"
+        },
+        {
           "year": "1963",
           "month": "10",
           "day": "14",
