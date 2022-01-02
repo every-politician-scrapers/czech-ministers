@@ -1,19 +1,18 @@
 {
-  "title": "Helena Langšádlová",
-  "pageID": 69563300,
+  "title": "Anna Hubáčková",
+  "pageID": 69634446,
   "categories": [
-    "1963 births",
+    "1957 births",
     "Living people",
-    "Politicians from Prague",
-    "TOP 09 MPs",
-    "TOP 09 Government ministers",
-    "TOP 09 politicians",
-    "Members of the Chamber of Deputies of the Czech Republic (2010–2013)",
-    "Members of the Chamber of Deputies of the Czech Republic (2013–2017)",
-    "Members of the Chamber of Deputies of the Czech Republic (2017–2021)",
-    "Members of the Chamber of Deputies of the Czech Republic (2021–2025)",
+    "People from Hodonín District",
     "Women government ministers of the Czech Republic",
-    "21st-century Czech women politicians"
+    "21st-century Czech women politicians",
+    "Environment ministers of the Czech Republic",
+    "KDU-ČSL Government ministers",
+    "KDU-ČSL Senators",
+    "Members of the Senate of the Czech Republic",
+    "Masaryk University alumni",
+    "Mayors of places in the Czech Republic"
   ],
   "sections": [
     {
@@ -23,8 +22,13 @@
         {
           "sentences": [
             {
-              "text": "Helena Langšádlová (born 14 October 1963) is a Czech politician, who has served as the Czech Minister for Science and Research in Petr Fiala's Cabinet since December 2021.",
+              "text": "Anna Hubáčková (born 6 September 1957) is a Czech politician, who has served as Czech Minister of the Environment in Petr Fiala's Cabinet since December 2021.",
               "links": [
+                {
+                  "text": "Czech Minister of the Environment",
+                  "type": "internal",
+                  "page": "Ministry of the Environment (Czech Republic)"
+                },
                 {
                   "type": "internal",
                   "page": "Petr Fiala's Cabinet"
@@ -32,21 +36,21 @@
               ],
               "formatting": {
                 "bold": [
-                  "Helena Langšádlová"
+                  "Anna Hubáčková"
                 ]
               }
             },
             {
-              "text": "She has been a member of the Czech parliament since 2010, representing TOP 09.",
+              "text": "She has been a member of the Czech Senate since 2016, as a nominee of KDU-ČSL.",
               "links": [
                 {
-                  "text": "Czech parliament",
+                  "text": "Czech Senate",
                   "type": "internal",
-                  "page": "Chamber of Deputies of the Czech Republic"
+                  "page": "Senate of the Czech Republic"
                 },
                 {
                   "type": "internal",
-                  "page": "TOP 09"
+                  "page": "KDU-ČSL"
                 }
               ]
             }
@@ -60,15 +64,15 @@
         },
         {
           "list": [
-            "Helena Langšádlová"
+            "Anna Hubáčková"
           ],
           "date": "December 2021",
           "template": "expand czech"
         },
         {
-          "year": "1963",
-          "month": "10",
-          "day": "14",
+          "year": "1957",
+          "month": "09",
+          "day": "06",
           "df": "yes",
           "template": "birth date and age"
         }
@@ -76,29 +80,18 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Helena Langšádlová"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament",
-                "anchor": "Czech Republic"
-              }
-            ]
+            "text": "Anna Hubáčková"
           },
           "image": {
-            "text": "Helena Langšádlová.jpg"
+            "text": "Anna Hubáčková in 2016.jpg"
           },
           "office": {
-            "text": "Minister for Science and Research",
+            "text": "Minister of the Environment",
             "links": [
               {
-                "text": "Minister for Science and Research",
+                "text": "Minister of the Environment",
                 "type": "internal",
-                "page": "Petr Fiala's Cabinet"
+                "page": "Ministry of the Environment (Czech Republic)"
               }
             ]
           },
@@ -114,55 +107,83 @@
           "term_start": {
             "text": "17 December 2021"
           },
-          "office1": {
-            "text": "Member of the Chamber of Deputies",
+          "predecessor": {
+            "text": "Richard Brabec",
             "links": [
               {
-                "text": "Chamber of Deputies",
                 "type": "internal",
-                "page": "Chamber of Deputies of the Czech Republic"
+                "page": "Richard Brabec"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Senator from Hodonín",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "Senate of the Czech Republic"
+              },
+              {
+                "type": "internal",
+                "page": "Hodonín"
               }
             ]
           },
           "term_start1": {
-            "text": "29 May 2010"
+            "text": "23 October 2016"
           },
-          "office2": {
-            "text": "Mayor of Černošice",
+          "predecessor1": {
+            "text": "Zdeněk Škromach",
             "links": [
               {
-                "text": "Černošice",
                 "type": "internal",
-                "page": "Černošice"
+                "page": "Zdeněk Škromach"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Mayor of Ratíškovice",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ratíškovice"
               }
             ]
           },
           "term_start2": {
-            "text": "1988",
-            "number": 1988
+            "text": "3 November 2014"
           },
           "term_end2": {
-            "text": "2006",
-            "number": 2006
+            "text": "29 October 2018"
           },
-          "successor2": {
-            "text": "Aleš Rádl",
+          "predecessor2": {
+            "text": "Josef Uhlík",
             "links": [
               {
                 "type": "internal",
-                "page": "Aleš Rádl"
+                "page": "Josef Uhlík"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Josef Uhlík",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Josef Uhlík"
               }
             ]
           },
           "birth_date": {
-            "text": "October 14, 1963"
+            "text": "September 6, 1957"
           },
           "birth_place": {
-            "text": "Prague, Czechoslovakia",
+            "text": "Ratíškovice, Czechoslovakia",
             "links": [
               {
                 "type": "internal",
-                "page": "Prague"
+                "page": "Ratíškovice"
               },
               {
                 "type": "internal",
@@ -170,13 +191,18 @@
               }
             ]
           },
-          "party": {
-            "text": "TOP 09 (2009 – present) \nKDU-ČSL",
+          "alma_mater": {
+            "text": "Masaryk University",
             "links": [
               {
                 "type": "internal",
-                "page": "TOP 09"
-              },
+                "page": "Masaryk University"
+              }
+            ]
+          },
+          "party": {
+            "text": "independent (nominated by KDU-ČSL)",
+            "links": [
               {
                 "type": "internal",
                 "page": "KDU-ČSL"
@@ -184,12 +210,12 @@
             ]
           },
           "website": {
-            "text": "helenalangsadlova.cz",
+            "text": "annahubackova.cz",
             "links": [
               {
-                "text": "helenalangsadlova.cz",
+                "text": "annahubackova.cz",
                 "type": "external",
-                "site": "http://www.helenalangsadlova.cz"
+                "site": "http://www.annahubackova.cz/"
               }
             ]
           }
@@ -207,9 +233,9 @@
           "type": "news"
         },
         {
-          "title": "Mgr. Helena Langšádlová",
-          "url": "https://www.psp.cz/sqw/detail.sqw?id=5943#",
-          "work": "Chamber of Deputies of the Czech Republic",
+          "title": "Ing. Bc. Anna Hubáčková",
+          "url": "https://www.senat.cz/senatori/index.php?par_3=310",
+          "work": "Senate of the Czech Republic",
           "language": "cs",
           "template": "citation",
           "type": "web"
