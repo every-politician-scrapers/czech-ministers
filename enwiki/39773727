@@ -338,34 +338,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.radio.cz/en/section/breaking/president-zeman-appoints-rusnok-as-caretaker-prime-minister",
-          "title": "President Zeman appoints Rusnok as caretaker prime minister",
-          "last": "Willoughby",
-          "first": "Ian",
-          "date": "25 June 2013",
-          "publisher": "Czech Radio",
-          "accessdate": "25 June 2013 }}{{dead link|date=April 2017 |bot=InternetArchiveBot |fix-attempted=yes |undefined",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.bbc.co.uk/news/world-europe-23053058",
-          "title": "Jiri Rusnok appointed as new Czech prime minister",
-          "date": "25 June 2013",
-          "publisher": "BBC",
-          "accessdate": "25 June 2013",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
