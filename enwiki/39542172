@@ -85,6 +85,11 @@
               "text": "He became leader of ODS in January 2014, promising to reform the party and regain public trust after a corruption scandal involving Prime Minister Petr Nečas.",
               "links": [
                 {
+                  "text": "January 2014",
+                  "type": "internal",
+                  "page": "2014 Civic Democratic Party leadership election"
+                },
+                {
                   "text": "corruption scandal",
                   "type": "internal",
                   "page": "2013 Czech political corruption scandal"
@@ -96,7 +101,7 @@
               ]
             },
             {
-              "text": "Fiala led ODS to a distant second place in the 2017 legislative election, taking the party into opposition despite multiple offers from the incoming Prime Minister Andrej Babiš to participate in his governing coalition.",
+              "text": "Fiala's ODS finished a distant second place in the 2017 legislative election, and continued in the opposition despite multiple offers from the incoming Prime Minister Andrej Babiš to participate in his governing coalition.",
               "links": [
                 {
                   "text": "2017 legislative election",
@@ -208,7 +213,7 @@
               ]
             },
             {
-              "text": "He was appointed Prime Minister by President Miloš Zeman on 28 November 2021 and his government took power on 17 December 2021, making him the third oldest person to hold the office, as well as the first with a political science background and the first from Brno.",
+              "text": "He was appointed Prime Minister by President Miloš Zeman on 28 November 2021 and his cabinet took power on 17 December 2021, making him the third oldest person to hold the office, as well as the first with a political science background and the first from Brno.",
               "links": [
                 {
                   "text": "Prime Minister",
@@ -220,7 +225,7 @@
                   "page": "Miloš Zeman"
                 },
                 {
-                  "text": "his government",
+                  "text": "his cabinet",
                   "type": "internal",
                   "page": "Petr Fiala's Cabinet"
                 },
@@ -427,6 +432,9 @@
               }
             ]
           },
+          "spouse": {
+            "text": "Jana"
+          },
           "party": {
             "text": "ODS (2013–present)",
             "links": [
@@ -434,6 +442,16 @@
                 "text": "ODS",
                 "type": "internal",
                 "page": "Civic Democratic Party (Czech Republic)"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Spolu (2020-present)",
+            "links": [
+              {
+                "text": "Spolu",
+                "type": "internal",
+                "page": "Spolu (Czech Republic)"
               }
             ]
           },
