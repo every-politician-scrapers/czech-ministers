@@ -251,6 +251,32 @@
               }
             ]
           },
+          "office6": {
+            "text": "Mayor of Suchá Loz",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Suchá Loz"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "2002",
+            "number": 2002
+          },
+          "term_end6": {
+            "text": "2010",
+            "number": 2010
+          },
+          "successor6": {
+            "text": "Václav Bujáček",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Václav Bujáček"
+              }
+            ]
+          },
           "birth_date": {
             "text": "June 26, 1974"
           },

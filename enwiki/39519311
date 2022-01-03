@@ -10,7 +10,8 @@
     "Civic Democratic Party (Czech Republic) Government ministers",
     "Members of the Chamber of Deputies of the Czech Republic (2017–2021)",
     "Members of the Chamber of Deputies of the Czech Republic (2013–2017)",
-    "Members of the Chamber of Deputies of the Czech Republic (2021–2025)"
+    "Members of the Chamber of Deputies of the Czech Republic (2021–2025)",
+    "Masaryk University alumni"
   ],
   "sections": [
     {
@@ -188,6 +189,9 @@
               }
             ]
           },
+          "spouse": {
+            "text": "Alena Blažková"
+          },
           "party": {
             "text": "Civic Democratic Party",
             "links": [
@@ -195,6 +199,15 @@
                 "text": "Civic Democratic Party",
                 "type": "internal",
                 "page": "Civic Democratic Party (Czech Republic)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Masaryk University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Masaryk University"
               }
             ]
           }
