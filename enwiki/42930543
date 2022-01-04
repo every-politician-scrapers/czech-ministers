@@ -214,12 +214,24 @@
           "term_start3": {
             "text": "17 December 2021"
           },
+          "term_end3": {
+            "text": "3 January 2022"
+          },
           "predecessor3": {
             "text": "Miroslav Toman",
             "links": [
               {
                 "type": "internal",
                 "page": "Miroslav Toman"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Zdeněk Nekula",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zdeněk Nekula"
               }
             ]
           },
