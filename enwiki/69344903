@@ -1,0 +1,149 @@
+{
+  "title": "Michal Šalomoun",
+  "pageID": 69344903,
+  "categories": [
+    "1974 births",
+    "Living people",
+    "People from Třebíč",
+    "Government ministers of the Czech Republic",
+    "Czech Pirate Party Government Ministers",
+    "Czech lawyers",
+    "Masaryk University alumni",
+    "Janáček Academy of Music and Performing Arts alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Michal Šalomoun (born 21 October 1974) is a Czech lawyer and politician who has served as Czech Minister of Legislation and chairman of the Government Legislative Council in Petr Fiala's Cabinet since December 2021.",
+              "links": [
+                {
+                  "text": "Czech Minister of Legislation and chairman of the Government Legislative Council",
+                  "type": "internal",
+                  "page": "Petr Fiala's Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Petr Fiala's Cabinet"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Michal Šalomoun"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Czech politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Michal Šalomoun"
+          ],
+          "date": "January 2022",
+          "template": "expand czech"
+        },
+        {
+          "year": "1974",
+          "month": "10",
+          "day": "21",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Masaryk University",
+            "Janáček Academy of Music and Performing Arts"
+          ],
+          "template": "ubl"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Michal Šalomoun"
+          },
+          "image": {
+            "text": "Ministr pro legislativu Michal Šalomoun 2021 (cropped).jpg"
+          },
+          "office": {
+            "text": "Minister of Legislation and chairman of the Government Legislative Council",
+            "links": [
+              {
+                "text": "Minister of Legislation and chairman of the Government Legislative Council",
+                "type": "internal",
+                "page": "Petr Fiala's Cabinet"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Petr Fiala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petr Fiala"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "17 December 2021"
+          },
+          "predecessor": {
+            "text": "Marie Benešová",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marie Benešová"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 21, 1974"
+          },
+          "birth_place": {
+            "text": "Třebíč, Czechoslovakia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Třebíč"
+              },
+              {
+                "type": "internal",
+                "page": "Czechoslovakia"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Masaryk University\n\nJanáček Academy of Music and Performing Arts"
+          },
+          "party": {
+            "text": "Independent (nominated by Czech Pirate Party)",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              },
+              {
+                "type": "internal",
+                "page": "Czech Pirate Party"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Lawyer, Politician"
+          }
+        }
+      ]
+    }
+  ]
+}
