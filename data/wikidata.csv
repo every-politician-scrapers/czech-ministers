@@ -1,13 +1,13 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
 Q10857406,Zbyněk Stanjura,Zbyněk Stanjura,male,1964-02-15,11,https://www.vlada.cz/en/vlada/,2021-12-19,Q2207925,Minister of Finance,2021-12-17,Q10857406-fd16ee12-4ca7-a572-964c-b0020c4c6282
-Q109615190,Zdeněk Nekula,Zdeněk Nekula,male,1970-02-09,11,,,Q28808262,Minister of Agriculture,2022-01-03,Q109615190-87a1abaf-47bd-89ea-bf3e-47cc6aa7f362
-Q109802768,Jozef Síkela,Jozef Síkela,male,1967-06-17,11,,,Q25507811,Minister of Industry and Trade,2021-12-17,Q109802768-f2d5fcd7-446a-6367-00dd-24a708711a72
+Q109615190,Zdeněk Nekula,Zdeněk Nekula,male,1970-02-09,11,https://www.vlada.cz/en/vlada/,2022-01-04,Q28808262,Minister of Agriculture,2022-01-03,Q109615190-87a1abaf-47bd-89ea-bf3e-47cc6aa7f362
+Q109802768,Jozef Síkela,Jozef Síkela,male,1967-06-17,11,https://www.vlada.cz/en/vlada/,2022-01-04,Q25507811,Minister of Industry and Trade,2021-12-17,Q109802768-f2d5fcd7-446a-6367-00dd-24a708711a72
 Q12019419,Helena Langšádlová,Helena Langšádlová,female,1963-10-14,11,https://www.vlada.cz/en/vlada/,2021-12-28,Q59773497,"Minister of Science, Research and Innovation",2021-12-17,Q12019419-97241D47-B012-4A22-B20A-4B0ECC91257D
 Q12023473,Jana Černochová,Jana Černochová,female,1973-10-26,11,https://www.vlada.cz/en/vlada/,2021-12-19,Q45406265,Minister of Defence,2021-12-17,Q12023473-CCAC51BD-6C8D-490B-A209-ADDB5150902B
 Q12037105,Mikuláš Bek,Mikuláš Bek,male,1964-04-22,11,https://www.vlada.cz/en/vlada/,2021-12-19,Q12052800,Minister for European Affairs,2021-12-17,Q12037105-F5BD0979-68A1-4464-940F-199B1253C39A
 Q1292951,Ivan Bartoš,Ivan Bartoš,male,1980-03-20,11,https://www.vlada.cz/en/vlada/,2021-12-28,Q61882567,Deputy Prime Minister for Digitisation,2021-12-17,Q1292951-21C1A29C-3AAD-4937-830E-7D6467618F90
 Q1292951,Ivan Bartoš,Ivan Bartoš,male,1980-03-20,11,https://www.vlada.cz/en/vlada/,2021-12-19,Q25515749,Minister of Regional Development,2021-12-17,Q1292951-D13EA483-91D8-4BF3-B04B-3D1E74678AA5
-Q13434626,Marian Jurečka,Marian Jurečka,male,1981-03-15,11,,,Q27479703,Minister of Labour and Social Affairs,2021-12-17,Q13434626-2E94C815-1404-4542-A42F-2F27D37D3C97
+Q13434626,Marian Jurečka,Marian Jurečka,male,1981-03-15,11,https://www.vlada.cz/en/vlada/,2022-01-04,Q27479703,Minister of Labour and Social Affairs,2021-12-17,Q13434626-2E94C815-1404-4542-A42F-2F27D37D3C97
 Q13434626,Marian Jurečka,Marian Jurečka,male,1981-03-15,11,https://www.vlada.cz/en/vlada/,2021-12-19,Q61882567,Deputy Prime Minister,2021-12-17,Q13434626-6386C380-5797-44CF-A82F-3A76D3FE3CB5
 Q14806386,Martin Baxa,Martin Baxa,male,1975-09-16,11,https://www.vlada.cz/en/vlada/,2021-12-19,Q45843918,Minister of Culture,2021-12-17,Q14806386-9A89138D-4B18-4527-8528-E2F5E920011F
 Q15054146,Martin Kupka,Martin Kupka,male,1975-10-28,11,https://www.vlada.cz/en/vlada/,2021-12-19,Q45754140,Minister of Transport,2021-12-17,Q15054146-E5E3714C-9E37-473E-88B1-F436B4B3B498
@@ -19,5 +19,5 @@ Q30114672,Vlastimil Válek,Vlastimil Válek,male,1960-05-17,11,https://www.vlada
 Q30114672,Vlastimil Válek,Vlastimil Válek,male,1960-05-17,11,https://www.vlada.cz/en/vlada/,2021-12-19,Q61882567,Deputy Prime Minister,2021-12-17,Q30114672-5E5B574C-05B8-4A6F-8261-07C7D3F089A6
 Q3372924,Pavel Blažek,Pavel Blažek,male,1969-04-08,11,https://www.vlada.cz/en/vlada/,2021-12-19,Q26197353,Minister of Justice,2021-12-17,Q3372924-e1040ca1-4d0b-f38b-5988-6ee60577591f
 Q3377548,Petr Fiala,Petr Fiala,male,1964-09-01,11,https://www.vlada.cz/en/vlada/,2021-12-19,Q3409229,Prime Minister,2021-11-28,Q3377548-cc587e31-4da1-5014-4531-5b48de74ef76
-Q42402111,Jan Lipavský,Jan Lipavský,male,1985-07-02,11,,,Q2501396,Minister of Foreign Affairs,2021-12-17,Q42402111-db41d362-434b-a1af-f026-b9d7c893d473
+Q42402111,Jan Lipavský,Jan Lipavský,male,1985-07-02,11,https://www.vlada.cz/en/vlada/,2022-01-04,Q2501396,Minister of Foreign Affairs,2021-12-17,Q42402111-db41d362-434b-a1af-f026-b9d7c893d473
 Q55118635,Michal Šalomoun,Michal Šalomoun,male,1974-10-21,11,https://www.vlada.cz/en/vlada/,2021-12-28,Q59773497,Minister of Legislation and chairman of the Government Legislative Council,2021-12-17,Q55118635-4366380C-FB0D-48A7-8479-DE34A52D8B74
