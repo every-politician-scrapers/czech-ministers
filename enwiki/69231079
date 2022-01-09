@@ -20,12 +20,17 @@
         {
           "sentences": [
             {
-              "text": "Jan Lipavský (born 2 July 1985) is a Czech information technology manager and politician.",
+              "text": "Jan Lipavský (born 2 July 1985) is a Czech politician and manager who is serving as the Minister of Foreign Affairs of the Czech Republic since December 2021.",
               "links": [
                 {
-                  "text": "information technology manager",
+                  "text": "Czech",
                   "type": "internal",
-                  "page": "Information technology management"
+                  "page": "Czech Republic"
+                },
+                {
+                  "text": "Minister of Foreign Affairs of the Czech Republic",
+                  "type": "internal",
+                  "page": "Minister of Foreign Affairs (Czech Republic)"
                 }
               ],
               "formatting": {
@@ -35,26 +40,7 @@
               }
             },
             {
-              "text": "He is a member of the Czech Pirate Party and serves as the Minister of Foreign Affairs of the governing Petr Fiala Cabinet since December 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Czech Pirate Party"
-                },
-                {
-                  "text": "Minister of Foreign Affairs",
-                  "type": "internal",
-                  "page": "Minister of Foreign Affairs (Czech Republic)"
-                },
-                {
-                  "text": "Petr Fiala Cabinet",
-                  "type": "internal",
-                  "page": "Petr Fiala's Cabinet"
-                }
-              ]
-            },
-            {
-              "text": "Previously, he was a Member of the Chamber of Deputies from October 2017 to October 2021.",
+              "text": "He also served as Member of the Chamber of Deputies from 2017 to 2021.",
               "links": [
                 {
                   "text": "Chamber of Deputies",
