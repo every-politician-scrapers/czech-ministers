@@ -1,6 +1,6 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q12060352,Q12060352,,,,,,,,,,,,,Q11829744,Q11829744,,
-,Q11384449,Fourth government of Josef Korčák,1981-06-18,11,,,1986-06-18,11,,,,,,,Q12060352,Q12060352,,
+,Q12060352,3rd Korčák Cabinet,1976-11-04,11,,,1981-06-18,11,,,,,,,Q11829744,Q11829744,,
+,Q11384449,Fourth government of Josef Korčák,1981-06-18,11,,,1986-06-18,11,,,,,,,Q12060352,3rd Korčák Cabinet,,
 ,Q11918698,"Government of Josef Korčák, Ladislav Adamec, František Pitra and Petr Pithart",1986-06-18,11,,,1990-06-29,11,,,,,,,Q11384449,Fourth government of Josef Korčák,Q11919180,Petr Pithart's Cabinet
 ,Q11919180,Petr Pithart's Cabinet,1990-06-29,11,,,1992-07-02,11,,,,,,,Q11918698,"Government of Josef Korčák, Ladislav Adamec, František Pitra and Petr Pithart",Q3562014,Václav Klaus' First Cabinet
 ,Q3562014,Václav Klaus' First Cabinet,1992-07-02,11,,,1996-07-04,11,,,,,,,Q11919180,Petr Pithart's Cabinet,Q11829962,Václav Klaus' Second Cabinet
