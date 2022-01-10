@@ -121,7 +121,7 @@
             "text": "Mikuláš Bek"
           },
           "image": {
-            "text": "Mikuláš Bek in 2019.jpg"
+            "text": "Mikuláš Bek 2019 crop.jpg"
           },
           "office": {
             "text": "Minister for European Affairs",
@@ -184,7 +184,7 @@
             "text": "April 22, 1964"
           },
           "birth_place": {
-            "text": "Šternberk, Czechoslovakia",
+            "text": "Šternberk, Czechoslovakia (now Czech Republic)",
             "links": [
               {
                 "text": "Šternberk",
@@ -194,6 +194,10 @@
               {
                 "type": "internal",
                 "page": "Czechoslovakia"
+              },
+              {
+                "type": "internal",
+                "page": "Czech Republic"
               }
             ]
           },
