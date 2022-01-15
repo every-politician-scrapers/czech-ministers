@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Martin Kupka (born 28 October 1975) is a Czech politician who has been Member of the Chamber of Deputies (MP) since 2017.",
+              "text": "Martin Kupka (born 28 October 1975) is a Czech politician who has been a member of the Chamber of Deputies (MP) since 2017.",
               "links": [
                 {
                   "text": "Chamber of Deputies",
@@ -35,8 +35,17 @@
               }
             },
             {
-              "text": "He is the mayor of Líbeznice.",
+              "text": "He is currently serving as Minister of Transport in Petr Fiala's cabinet.He previously served as mayor of Líbeznice.",
               "links": [
+                {
+                  "text": "Minister of Transport",
+                  "type": "internal",
+                  "page": "Ministry of Transport (Czech Republic)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Petr Fiala's cabinet"
+                },
                 {
                   "type": "internal",
                   "page": "Líbeznice"

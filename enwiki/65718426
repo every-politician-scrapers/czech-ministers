@@ -52,6 +52,21 @@
                   "page": "Kolín"
                 }
               ]
+            },
+            {
+              "text": "In 2021, he assumed the posts of First Deputy Prime Minister and Minister of the Interior in the cabinet of Petr Fiala.",
+              "links": [
+                {
+                  "text": "Minister of the Interior",
+                  "type": "internal",
+                  "page": "Ministry of the Interior (Czech Republic)"
+                },
+                {
+                  "text": "cabinet of Petr Fiala",
+                  "type": "internal",
+                  "page": "Petr Fiala's Cabinet"
+                }
+              ]
             }
           ]
         }
