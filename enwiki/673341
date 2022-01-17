@@ -191,8 +191,13 @@
             "text": "Zeman in 2017"
           },
           "office": {
-            "text": "President of the Czech Republic",
+            "text": "3rd President of the Czech Republic",
             "links": [
+              {
+                "text": "3rd",
+                "type": "internal",
+                "page": "List of presidents of the Czech Republic"
+              },
               {
                 "type": "internal",
                 "page": "President of the Czech Republic"
