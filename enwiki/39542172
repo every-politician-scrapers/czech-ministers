@@ -433,7 +433,11 @@
             ]
           },
           "spouse": {
-            "text": "Jana"
+            "text": "Jana Fialová"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
           },
           "party": {
             "text": "ODS (2013–present)",
