@@ -38,35 +38,108 @@ _gaq.push(['_setAllowAnchor', true]); // případné ovolení UTM parametrů za 
 <script type="text/javascript" src="/js/resp.js"></script>
 	<!--/*[if !IE]*/--><link href="/css/msie.css" type="text/css" media="screen, projection" rel="stylesheet" /><!--/*[endif]*/-->
 <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
-<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
-<script>
-window.addEventListener("load", function(){
-window.cookieconsent.initialise({
-  "position": "bottom",
-  "theme": "classic",
-  "cookie": {
-    "expiryDays": 365,
-  },
-  "palette": {
-    "popup": {
-      "background": "#001a4f",
-      "text": "#ffffff"
-    },
-    "button": {
-      "background": "#737373",
-      "text": "#ffffff"
-    }
-  },
-  "content": {
-    "dismiss": "Yes, I agree"
-  },
-  "elements": {
-  messagelink: '<span id="cookieconsent:desc" class="cc-message">We use cookies to operate this website and analyse visit data. If you browse the website, you acknowledge you consent to our handling the cookies. Click on <a style="color: #ffffff;" href="/en/urad-vlady/about-server/personal-data-protection-167157/">the link</a> to find out more about cookies, how we use them and how they can be enabled or disabled.</span>'
-}
-})});
-</script>
+<script src="/js/cookieconsent.min.js" type="text/javascript"></script>
+
 </head>
 <body>
+    <script>
+        const technical_cookies = ['TS017546ff', 'WTDGUID', 'PHPSESSID', 'cookieconsent_status'];
+
+        function check_cookie_name(name) {
+            var match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
+            if (match) {
+                // console.log(match[2]);
+                return false;
+            } else {
+                return true;
+            }
+        }
+
+        function removeCookies() {
+            let allCookies = document.cookie.split('; ');
+            let cookie_list_names = [];
+            // console.log('cl', cookie_list);
+            for (let cl of allCookies) {
+                let clvalue = cl.split('=');
+                cookie_list_names.push(clvalue[0]);
+                // console.log('clnp', clvalue[0]);
+            }
+            let cookies_to_remove = cookie_list_names.filter(function (val) {
+                return technical_cookies.indexOf(val) == -1;
+            });
+
+            // console.log('trm', cookies_to_remove);
+
+            for (var i of cookies_to_remove) {
+                var remove = true;
+                var hostname = window.location.hostname;
+                var cookieRemoved = false;
+                var index = 0;
+
+                // console.log('ck', i);
+
+                if (remove) {
+                    while (!cookieRemoved && hostname !== '') {
+                        // console.log('hn', hostname);
+                        document.cookie = i + "=; Max-Age=-99999999; path=/; domain=." + hostname + ";";
+                        cookieRemoved = check_cookie_name(i);
+                        if (!cookieRemoved) {
+                            document.cookie = i + "=; Max-Age=-99999999; path=/; domain=" + hostname + ";";
+                            cookieRemoved = check_cookie_name(i);
+                        }
+
+                        index = hostname.indexOf('.');
+
+                        hostname = (index === -1) ? '' : hostname.substring(index + 1);
+                    }
+
+                    if (!cookieRemoved) {
+                        document.cookie = i + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT; path=/;';
+                    }
+                }
+            }
+        }
+
+        window.addEventListener("load", function () {
+            window.cookieconsent.initialise({
+                "type": 'opt-in',
+                "position": "bottom",
+                "theme": "classic",
+                "cookie": {
+                    "expiryDays": 365,
+                },
+                "palette": {
+                    "popup": {
+                        "background": "#001a4f",
+                        "text": "#ffffff"
+                    },
+                    "button": {
+                        "background": "#737373",
+                        "text": "#ffffff"
+                    }
+                },
+                "content": {
+                    "allow": "Accept all",
+                    "deny": "Necessary only"
+                },
+                "elements": {
+                    messagelink: '<span id="cookieconsent:desc" class="cc-message">We use cookies to ensure the best possible user experience with our website. Detailed information about cookies and their processing can be found on the <a style="color: #ffffff;" href="/en/urad-vlady/about-server/personal-data-protection-167157/">Privacy Policy website</a>. By clicking “Accept all” you agree that we can use all types of cookies. By clicking on “Necessary only”, we will only store cookies that are necessary for the functioning of our website. The consent granted can be revoked by clicking on the “Cookie” link in the footer of the website.</span>'
+                },
+                "revokable": true,
+                "revokeBtn": '<div class="cc-revoke {{classes}}" id="cookie-settings-float_button">Cookies</div>',
+                onInitialise: function(status) {
+                    if (!this.hasConsented()) {
+                        removeCookies();
+                    }
+                },
+                onPopupOpen: function () {
+                    if (!this.hasConsented()) {
+                        removeCookies();
+                    }
+                },
+            });
+        });
+    </script>
 	<div id="case">
 		<div id="header">
 <div id="site-en">
@@ -371,6 +444,7 @@ window.cookieconsent.initialise({
 	<li class="noprint"><a href="/en/urad-vlady/adresa-uradu-vlady/contact-address-50831/">Contact</a></li>
 	<li class="noprint"><a href="/scripts/modules/fg/fulltxt.php?locale=EN">Advanced search</a></li>
 	<li class="noprint"><a href="/en/urad-vlady/about-server/personal-data-protection-167157/">Personal data protection</a></li>
+	<li class="noprint"><ul class="cookies-settings"></ul></li>
 </ul><!-- /FOOTER -->
 	</div><!-- /CASE -->
 <script type="text/javascript">
