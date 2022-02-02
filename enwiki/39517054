@@ -8,6 +8,8 @@
     "Civic Democratic Party (Czech Republic) MPs",
     "Transport ministers of the Czech Republic",
     "Civic Democratic Party (Czech Republic) Government ministers",
+    "Civic Democratic Party (Czech Republic) mayors",
+    "Mayors of places in the Czech Republic",
     "Members of the Chamber of Deputies of the Czech Republic (2017–2021)",
     "Members of the Chamber of Deputies of the Czech Republic (2013–2017)",
     "Members of the Chamber of Deputies of the Czech Republic (2010–2013)",
@@ -68,6 +70,9 @@
                   "page": "Chamber of Deputies of the Czech Republic"
                 }
               ]
+            },
+            {
+              "text": "Stanjura previously served as Mayor of Opava from 2002 to 2010."
             }
           ]
         }
