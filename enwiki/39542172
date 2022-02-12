@@ -29,7 +29,7 @@
         {
           "sentences": [
             {
-              "text": "Petr Fiala (born 1 September 1964) is a Czech politician and political scientist who has been the Prime Minister of the Czech Republic since November 2021 and leader of the Civic Democratic Party (ODS) since 2014.",
+              "text": "Petr Fiala (born 1 September 1964) is a Czech politician and political scientist who has been the prime minister of the Czech Republic since November 2021 and leader of the Civic Democratic Party (ODS) since 2014.",
               "links": [
                 {
                   "text": "Czech",
@@ -37,8 +37,9 @@
                   "page": "Czech Republic"
                 },
                 {
+                  "text": "prime minister of the Czech Republic",
                   "type": "internal",
-                  "page": "Prime Minister of the Czech Republic"
+                  "page": "prime minister of the Czech Republic"
                 },
                 {
                   "text": "Civic Democratic Party",
@@ -82,7 +83,7 @@
               ]
             },
             {
-              "text": "He became leader of ODS in January 2014, promising to reform the party and regain public trust after a corruption scandal involving Prime Minister Petr Nečas.",
+              "text": "He became leader of ODS in January 2014, promising to reform the party and regain public trust after a corruption scandal involving prime minister Petr Nečas.",
               "links": [
                 {
                   "text": "January 2014",
@@ -101,7 +102,7 @@
               ]
             },
             {
-              "text": "Fiala's ODS finished a distant second place in the 2017 legislative election, and continued in the opposition despite multiple offers from the incoming Prime Minister Andrej Babiš to participate in his governing coalition.",
+              "text": "Fiala's ODS finished a distant second place in the 2017 legislative election, and continued in the opposition despite multiple offers from the incoming prime minister Andrej Babiš to participate in his governing coalition.",
               "links": [
                 {
                   "text": "2017 legislative election",
@@ -213,10 +214,10 @@
               ]
             },
             {
-              "text": "He was appointed Prime Minister by President Miloš Zeman on 28 November 2021 and his cabinet took power on 17 December 2021, making him the third oldest person to hold the office, as well as the first with a political science background and the first from Brno.",
+              "text": "He was appointed prime minister by President Miloš Zeman on 28 November 2021 and his cabinet took power on 17 December 2021, making him the third oldest person to hold the office, as well as the first with a political science background and the first from Brno.",
               "links": [
                 {
-                  "text": "Prime Minister",
+                  "text": "prime minister",
                   "type": "internal",
                   "page": "Prime Minister of the Czech Republic"
                 },
