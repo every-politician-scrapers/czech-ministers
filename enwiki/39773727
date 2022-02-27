@@ -157,7 +157,7 @@
             ]
           },
           "deputy": {
-            "text": "Jan Fischer Martin Pecina",
+            "text": "Jan Fischer\nMartin Pecina",
             "links": [
               {
                 "text": "Jan Fischer",
@@ -204,7 +204,7 @@
             ]
           },
           "vicegovernor1": {
-            "text": "Mojmír Hampl Vladimír Tomšík",
+            "text": "Mojmír Hampl\nVladimír Tomšík",
             "links": [
               {
                 "type": "internal",
@@ -300,7 +300,7 @@
             "text": "October 16, 1960"
           },
           "birth_place": {
-            "text": "Ostrava, Czechoslovakia (now Czech Republic)",
+            "text": "Ostrava, Czechoslovakia\n(now Czech Republic)",
             "links": [
               {
                 "text": "Ostrava",
@@ -314,7 +314,7 @@
             ]
           },
           "party": {
-            "text": "Social Democratic Party (1998–2010) Independent (2010–present)",
+            "text": "Social Democratic Party (1998–2010)\nIndependent (2010–present)",
             "links": [
               {
                 "text": "Social Democratic Party",
