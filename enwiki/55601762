@@ -1,195 +1,21 @@
 {
-  "title": "Martin Kupka",
-  "pageID": 55601762,
-  "categories": [
-    "1975 births",
-    "Living people",
-    "Civic Democratic Party (Czech Republic) mayors",
-    "Charles University alumni",
-    "Civic Democratic Party (Czech Republic) MPs",
-    "Members of the Chamber of Deputies of the Czech Republic (2017–2021)",
-    "Members of the Chamber of Deputies of the Czech Republic (2021–2025)",
-    "Civic Democratic Party (Czech Republic) Government ministers",
-    "Transport ministers of the Czech Republic",
-    "People from Jilemnice"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Martin Kupka (born 28 October 1975) is a Czech politician who has been a member of the Chamber of Deputies (MP) since 2017.",
-              "links": [
-                {
-                  "text": "Chamber of Deputies",
-                  "type": "internal",
-                  "page": "Chamber of Deputies of the Czech Republic"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Martin Kupka"
-                ]
-              }
-            },
-            {
-              "text": "He is currently serving as Minister of Transport in Petr Fiala's cabinet.He previously served as mayor of Líbeznice.",
-              "links": [
-                {
-                  "text": "Minister of Transport",
-                  "type": "internal",
-                  "page": "Ministry of Transport (Czech Republic)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Petr Fiala's cabinet"
-                },
-                {
-                  "type": "internal",
-                  "page": "Líbeznice"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "year": "1975",
-          "month": "10",
-          "day": "28",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Martin Kupka"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament",
-                "anchor": "Czech Republic"
-              }
-            ]
-          },
-          "image": {
-            "text": "Martin Kupka 2021.jpg"
-          },
-          "caption": {
-            "text": "Martin Kupka (2021)"
-          },
-          "office": {
-            "text": "Minister of Transport",
-            "links": [
-              {
-                "text": "Minister of Transport",
-                "type": "internal",
-                "page": "Ministry of Transport (Czech Republic)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Petr Fiala",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Petr Fiala"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "17 December 2021"
-          },
-          "predecessor": {
-            "text": "Karel Havlíček",
-            "links": [
-              {
-                "text": "Karel Havlíček",
-                "type": "internal",
-                "page": "Karel Havlíček (politician)"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Member of the Chamber of Deputies",
-            "links": [
-              {
-                "text": "Chamber of Deputies",
-                "type": "internal",
-                "page": "Chamber of Deputies of the Czech Republic"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "26 October 2017"
-          },
-          "office2": {
-            "text": "Mayor of Líbeznice",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Líbeznice"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "15 November 2010"
-          },
-          "term_end2": {
-            "text": "20 December 2021"
-          },
-          "birth_date": {
-            "text": "October 28, 1975"
-          },
-          "birth_place": {
-            "text": "Jilemnice, Czechoslovakia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jilemnice"
-              },
-              {
-                "type": "internal",
-                "page": "Czechoslovakia"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Dana Kupková"
-          },
-          "party": {
-            "text": "ODS",
-            "links": [
-              {
-                "text": "ODS",
-                "type": "internal",
-                "page": "Civic Democratic Party (Czech Republic)"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Charles University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Charles University"
-              }
-            ]
-          },
-          "website": {
-            "text": "http://www.martinkupka.eu/"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Martin Kupka",
+  "honorific-suffix": "MP",
+  "image": "Martin Kupka 2021.jpg",
+  "caption": "Martin Kupka (2021)",
+  "office": "Minister of Transport",
+  "primeminister": "Petr Fiala",
+  "term_start": "17 December 2021",
+  "predecessor": "Karel Havlíček",
+  "office1": "Member of the Chamber of Deputies",
+  "term_start1": "26 October 2017",
+  "office2": "Mayor of Líbeznice",
+  "term_start2": "15 November 2010",
+  "term_end2": "20 December 2021",
+  "birth_date": "October 28, 1975",
+  "birth_place": "Jilemnice, Czechoslovakia",
+  "spouse": "Dana Kupková",
+  "party": "ODS",
+  "alma_mater": "Charles University",
+  "website": "http://www.martinkupka.eu/"
 }

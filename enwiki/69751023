@@ -1,171 +1,20 @@
 {
-  "title": "Zdeněk Nekula",
-  "pageID": 69751023,
-  "categories": [
-    "1970 births",
-    "Living people",
-    "People from Znojmo",
-    "Agriculture ministers of the Czech Republic",
-    "Mendel University Brno alumni",
-    "KDU-ČSL Government ministers",
-    "Mayors of places in the Czech Republic",
-    "KDU-ČSL mayors"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Zdeněk Nekula (born 9 February 1970) is a Czech politician and manager, who has served as the Czech Minister of Agriculture in Petr Fiala's Cabinet since January 2022.",
-              "links": [
-                {
-                  "text": "Minister of Agriculture",
-                  "type": "internal",
-                  "page": "Ministry of Agriculture (Czech Republic)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Petr Fiala's Cabinet"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Zdeněk Nekula"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Czech politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "Zdeněk Nekula"
-          ],
-          "date": "January 2022",
-          "template": "expand czech"
-        },
-        {
-          "year": "1970",
-          "month": "02",
-          "day": "09",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Zdeněk Nekula"
-          },
-          "office": {
-            "text": "Minister of Agriculture",
-            "links": [
-              {
-                "text": "Minister of Agriculture",
-                "type": "internal",
-                "page": "Ministry of Agriculture (Czech Republic)"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Petr Fiala",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Petr Fiala"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "3 January 2022"
-          },
-          "predecessor": {
-            "text": "Miroslav Toman",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Miroslav Toman"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Mayor of Těšetice",
-            "links": [
-              {
-                "text": "Těšetice",
-                "type": "internal",
-                "page": "Těšetice (Znojmo District)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 November 2018"
-          },
-          "term_end1": {
-            "text": "31 December 2021"
-          },
-          "predecessor1": {
-            "text": "Jana Bezrouková"
-          },
-          "successor1": {
-            "text": "Pavel Worbis"
-          },
-          "term_start2": {
-            "text": "12 March 2007"
-          },
-          "term_end2": {
-            "text": "3 November 2014"
-          },
-          "predecessor2": {
-            "text": "Leoš Musil"
-          },
-          "successor2": {
-            "text": "Jindřich Žižka"
-          },
-          "birth_date": {
-            "text": "February 9, 1970"
-          },
-          "birth_place": {
-            "text": "Znojmo, Czechoslovakia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Znojmo"
-              },
-              {
-                "type": "internal",
-                "page": "Czechoslovakia"
-              }
-            ]
-          },
-          "party": {
-            "text": "KDU-ČSL (2007 – present)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "KDU-ČSL"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Mendel University Brno",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mendel University Brno"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Zdeněk Nekula",
+  "office": "Minister of Agriculture",
+  "primeminister": "Petr Fiala",
+  "term_start": "3 January 2022",
+  "predecessor": "Miroslav Toman",
+  "office1": "Mayor of Těšetice",
+  "term_start1": "1 November 2018",
+  "term_end1": "31 December 2021",
+  "predecessor1": "Jana Bezrouková",
+  "successor1": "Pavel Worbis",
+  "term_start2": "12 March 2007",
+  "term_end2": "3 November 2014",
+  "predecessor2": "Leoš Musil",
+  "successor2": "Jindřich Žižka",
+  "birth_date": "February 9, 1970",
+  "birth_place": "Znojmo, Czechoslovakia",
+  "party": "KDU-ČSL (2007 – present)",
+  "alma_mater": "Mendel University Brno"
 }
