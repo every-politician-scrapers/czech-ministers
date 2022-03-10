@@ -1,276 +1,32 @@
 {
-  "title": "Ivan Bartoš",
-  "pageID": 55592855,
-  "categories": [
-    "1980 births",
-    "21st-century Czech politicians",
-    "Czech Pirate Party MPs",
-    "Living people",
-    "Hussite people",
-    "People from Jablonec nad Nisou",
-    "Charles University alumni",
-    "Leaders of the Czech Pirate Party",
-    "Members of the Chamber of Deputies of the Czech Republic (2017–2021)",
-    "Members of the Chamber of Deputies of the Czech Republic (2021–2025)",
-    "Regional Development ministers of the Czech Republic",
-    "Czech Pirate Party Government Ministers"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ivan Bartoš (born 20 March 1980) is a Czech software architect, civil rights activist and a Czech Pirate Party politician, serving as the Minister of Regional Development and Deputy Prime Minister for Digitalization in the governing Cabinet of Petr Fiala since December 2021.",
-              "links": [
-                {
-                  "text": "software architect",
-                  "type": "internal",
-                  "page": "software architecture"
-                },
-                {
-                  "text": "civil rights",
-                  "type": "internal",
-                  "page": "civil rights"
-                },
-                {
-                  "type": "internal",
-                  "page": "Czech Pirate Party"
-                },
-                {
-                  "text": "Minister of Regional Development",
-                  "type": "internal",
-                  "page": "Ministry of Regional Development (Czech Republic)"
-                },
-                {
-                  "text": "Cabinet of Petr Fiala",
-                  "type": "internal",
-                  "page": "Petr Fiala's Cabinet"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Ivan Bartoš"
-                ]
-              }
-            },
-            {
-              "text": "He has been a member of the Chamber of Deputies of the Czech Republic since October 2017, and the chairman of the party since 2016, as well as previously between 2009 and 2014.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chamber of Deputies of the Czech Republic"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Czech computer specialist, activist and politician",
-          "template": "short description"
-        },
-        {
-          "list": [
-            "a politician",
-            "the footballer",
-            "Ivan Bartoš (footballer)"
-          ],
-          "template": "about"
-        },
-        {
-          "date": "March 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1980",
-          "month": "3",
-          "day": "20",
-          "df": "yes",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Lydie Franka Bartošová",
-          "from": "2015",
-          "template": "marriage"
-        },
-        {
-          "expanded": "no",
-          "template": "pirate party sidebar"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Ivan Bartoš"
-          },
-          "image": {
-            "text": "Ivan Bartoš 16 December 2021.jpg"
-          },
-          "caption": {
-            "text": "Bartoš in December 2021"
-          },
-          "office": {
-            "text": "Leader of the Czech Pirate Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Czech Pirate Party"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "2 April 2016"
-          },
-          "predecessor": {
-            "text": "Lukáš Černohorský"
-          },
-          "term_start1": {
-            "text": "7 October 2013"
-          },
-          "term_end1": {
-            "text": "6 June 2014"
-          },
-          "predecessor1": {
-            "text": "Vacant"
-          },
-          "successor1": {
-            "text": "Lukáš Černohorský"
-          },
-          "term_start2": {
-            "text": "24 October 2009"
-          },
-          "term_end2": {
-            "text": "25 June 2013"
-          },
-          "predecessor2": {
-            "text": "Kamil Horký"
-          },
-          "successor2": {
-            "text": "Vacant"
-          },
-          "office3": {
-            "text": "Deputy Prime Minister for Digitalization of the Czech Republic",
-            "links": [
-              {
-                "text": "Deputy Prime Minister for Digitalization of the Czech Republic",
-                "type": "internal",
-                "page": "Petr Fiala's Cabinet"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Petr Fiala",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Petr Fiala"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "17 December 2021"
-          },
-          "title4": {
-            "text": "Minister of Regional Development",
-            "links": [
-              {
-                "text": "Minister of Regional Development",
-                "type": "internal",
-                "page": "Ministry of Regional Development (Czech Republic)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "17 December 2021"
-          },
-          "primeminister4": {
-            "text": "Petr Fiala",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Petr Fiala"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Klára Dostálová",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Klára Dostálová"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Member of the Chamber of Deputies",
-            "links": [
-              {
-                "text": "Chamber of Deputies",
-                "type": "internal",
-                "page": "Chamber of Deputies of the Czech Republic"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "21 October 2017"
-          },
-          "birth_date": {
-            "text": "March 20, 1980"
-          },
-          "birth_place": {
-            "text": "Jablonec nad Nisou, Czechoslovakia (now the Czech Republic)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jablonec nad Nisou"
-              },
-              {
-                "type": "internal",
-                "page": "Czechoslovakia"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Czech",
-            "links": [
-              {
-                "text": "Czech",
-                "type": "internal",
-                "page": "Czechs"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Lydie Franka Bartošová (m. 2015)"
-          },
-          "alma_mater": {
-            "text": "Charles University",
-            "links": [
-              {
-                "text": "Charles University",
-                "type": "internal",
-                "page": "Charles University in Prague"
-              }
-            ]
-          },
-          "party": {
-            "text": "Czech Pirate Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Czech Pirate Party"
-              }
-            ]
-          },
-          "website": {
-            "text": "pirati.cz"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Ivan Bartoš",
+  "image": "Ivan Bartoš 16 December 2021.jpg",
+  "caption": "Bartoš in December 2021",
+  "office": "Leader of the Czech Pirate Party",
+  "term_start": "2 April 2016",
+  "predecessor": "Lukáš Černohorský",
+  "term_start1": "7 October 2013",
+  "term_end1": "6 June 2014",
+  "predecessor1": "Vacant",
+  "successor1": "Lukáš Černohorský",
+  "term_start2": "24 October 2009",
+  "term_end2": "25 June 2013",
+  "predecessor2": "Kamil Horký",
+  "successor2": "Vacant",
+  "office3": "Deputy Prime Minister for Digitalization of the Czech Republic",
+  "primeminister3": "Petr Fiala",
+  "term_start3": "17 December 2021",
+  "title4": "Minister of Regional Development",
+  "term_start4": "17 December 2021",
+  "primeminister4": "Petr Fiala",
+  "predecessor4": "Klára Dostálová",
+  "office5": "Member of the Chamber of Deputies",
+  "term_start5": "21 October 2017",
+  "birth_date": "March 20, 1980",
+  "birth_place": "Jablonec nad Nisou, Czechoslovakia (now the Czech Republic)",
+  "nationality": "Czech",
+  "spouse": "Lydie Franka Bartošová (m. 2015)",
+  "alma_mater": "Charles University",
+  "party": "Czech Pirate Party",
+  "website": "pirati.cz"
 }
