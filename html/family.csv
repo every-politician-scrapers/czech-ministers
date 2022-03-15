@@ -1,0 +1,265 @@
+id,name,relationship,relative,relativename
+Q10389200,Vojtěch Adam,child,Q15249893,Petr Adam
+Q107548754,Jiří Horák,relative,Q12022991,Jan Plesl
+Q10817784,Jaroslav Palas,father,Q12026468,Josef Palas
+Q10819807,Andrej Babiš,child,Q104098427,Frederik Babiš
+Q10819807,Andrej Babiš,child,Q104098444,Vivien Babišová
+Q10819807,Andrej Babiš,child,Q58869572,Andrej Babiš jr
+Q10819807,Andrej Babiš,child,Q58932201,Adriana Bobeková
+Q10819807,Andrej Babiš,sibling,Q20976953,Alexander Babiš
+Q10819807,Andrej Babiš,spouse,Q58932594,Monika Babišová
+Q10819807,Andrej Babiš,spouse,Q63646251,Beata Adamovičová
+Q10854062,Antonín Peltrám,spouse,Q12032088,Květoslava Kořínková
+Q10857502,Zdeněk Bárta,child,Q47631074,Marek Bárta
+Q108872641,Martin Exner,father,Q11985459,Václav Exner
+Q11774059,Dagmar Lastovecká,father,Q10857568,Zdeněk Kessler
+Q11774222,Daniel Korte,father,Q325305,Oldřich František Korte
+Q11774224,Daniel Kroupa,child,Q12023483,Janek Kroupa
+Q11774224,Daniel Kroupa,child,Q12037121,Mikuláš Kroupa
+Q11775134,Tomáš Czernin,father,Q12058882,Theobald Czernin
+Q11775134,Tomáš Czernin,mother,Q65938587,Polyxena Czerninová
+Q11775134,Tomáš Czernin,sibling,Q15730985,Děpold Czernin
+Q11797891,Olga Sehnalová,mother,Q12042541,Olga Sehnalová
+Q11874943,Edvard Outrata,father,Q13420137,Eduard Outrata
+Q11926764,Vojtěch Vymětal,sibling,Q12028597,Karel Vymětal
+Q11938544,Vratislav Mynář,spouse,Q101197564,Alexandra Mynářová
+Q11985196,Eva Syková,spouse,Q12026646,Josef Syka
+Q11985459,Václav Exner,child,Q108872641,Martin Exner
+Q11985719,Václav Mencl,child,Q59112946,Vojtěch Mencl
+Q11985719,Václav Mencl,father,Q59113011,Vojtěch Mencl
+Q11985946,Václav Votava,child,Q105085499,Kateřina Votavová
+Q12018971,Hana Marvanová,spouse,Q105965929,Roman Korda
+Q12019433,Helena Třeštíková,child,Q54612470,Hana Třeštíková
+Q12019433,Helena Třeštíková,child,Q91811955,Tomáš Třeštík
+Q12019433,Helena Třeštíková,spouse,Q12036645,Michael Třeštík
+Q12021920,Ivan Gabal,spouse,Q2981008,Jana Hybášková
+Q12022546,Jan Hamáček,spouse,Q97991252,Gabriela Kloudová
+Q12023023,Jan Rakušan,child,Q22035584,Vít Rakušan
+Q12023269,Jan Zahradníček,father,Q1682383,Jan Zahradníček
+Q12025061,Jiří Brýdl,sibling,Q51729992,Miroslav Brýdl
+Q12025072,Jiří Bělehrádek,sibling,Q12055899,Stanislav Bělehrádek
+Q12025103,Jiří Drahoš,spouse,Q47493523,Eva Drahošová
+Q12025429,Jiří Payne,sibling,Q21485177,Petr Pazdera Payne
+Q12025621,Jiří Zimola,partner,Q13434469,Jana Příhodová
+Q12025624,Jiří Zlatuška,child,Q64712014,Kamila Zlatušková
+Q12026149,Josef Jařab,child,Q17277104,Jan Jařab
+Q12026483,Josef Pavlata,sibling,Q12036784,Michal Pavlata
+Q12028597,Karel Vymětal,sibling,Q11926764,Vojtěch Vymětal
+Q12028941,Kateřina Klasnová,spouse,Q367435,Vít Bárta
+Q12035756,Martin Komárek,father,Q11876251,Valtr Komárek
+Q12035846,Martin Stropnický,child,Q1606856,Matěj Stropnický
+Q12035846,Martin Stropnický,child,Q20428264,Anna Stropnická
+Q12035846,Martin Stropnický,spouse,Q23198189,Lucie Stropnická
+Q12035846,Martin Stropnický,spouse,Q23198189,Lucie Stropnická
+Q12035846,Martin Stropnický,spouse,Q7922529,Veronika Žilková
+Q12036669,Michaela Šojdrová,mother,Q11985171,Eva Nováková
+Q12036792,Michal Rabas,father,Q1399957,Václav Rabas
+Q12037105,Mikuláš Bek,father,Q95120219,Josef Bek
+Q12037174,Milan Chovanec,relative,Q12016961,František Chovanec
+Q12037503,Miloslav Výborný,child,Q30184731,Marek Výborný
+Q12037619,Miloš Vystrčil,relative,Q97963115,Josef Vystrčil
+Q12038498,Mojmír Vlašín,father,Q10498290,Štěpán Vlašín
+Q12038570,Monika Mihaličková,father,Q95152501,Gejza Horváth
+Q12038570,Monika Mihaličková,relative,Q34769590,Jana Horváthová
+Q12038570,Monika Mihaličková,spouse,Q56562337,Jan Mihaliček
+Q12042541,Olga Sehnalová,child,Q11797891,Olga Sehnalová
+Q12042545,Olga Sommerová,child,Q12022307,Jakub Sommer
+Q12042545,Olga Sommerová,child,Q12042553,Olga Malířová Špátová
+Q12042545,Olga Sommerová,spouse,Q708909,Vladimír Sommer
+Q12044139,Pavel Kováčik,father,Q70202813,Viliam Kováčik
+Q12044139,Pavel Kováčik,mother,Q70202816,Marie Kováčiková
+Q12044794,Petr Arenberger,father,Q106812171,Miloslav Arenberger
+Q12044794,Petr Arenberger,spouse,Q93174573,Monika Arenbergerova
+Q12044800,Petr Benda,sibling,Q109747888,Jan Benda
+Q12044923,Petr Kott,spouse,Q12028953,Kateřina Pancová
+Q12055899,Stanislav Bělehrádek,sibling,Q12025072,Jiří Bělehrádek
+Q1249052,Richard Salzmann,child,Q11985191,Eva Salzmannová
+Q1279451,Martin Štěpánek,father,Q169104,Zdeněk Štěpánek
+Q1279451,Martin Štěpánek,sibling,Q11719712,Jana Štěpánková
+Q1279451,Martin Štěpánek,sibling,Q11748218,Kristina Taberyová
+Q1279451,Martin Štěpánek,sibling,Q11815967,Petr Štěpánek
+Q1279451,Martin Štěpánek,spouse,Q12024212,Jaroslava Tvrzníková
+Q1292951,Ivan Bartoš,child,Q104099280,Bertram Bartoš
+Q1292951,Ivan Bartoš,spouse,Q88977394,Lydie Franka Bartošová
+Q133947,Jiří Dienstbier Jr.,father,Q375208,Jiří Dienstbier
+Q133947,Jiří Dienstbier Jr.,mother,Q10861532,Zuzana Dienstbierová
+Q133947,Jiří Dienstbier Jr.,relative,Q78915609,Jiří Dienstbier
+Q1357078,Vladimír Železný,child,Q12022326,Jakub Železný
+Q1357078,Vladimír Železný,spouse,Q22678776,Marta Davouze
+Q1357078,Vladimír Železný,spouse,Q61728994,Konstancie Železná
+Q13578363,Jiří Balvín,father,Q12025863,Josef Balvín
+Q13580235,Miroslav Toman,father,Q12038005,Miroslav Toman
+Q1358861,Martin Bursík,child,Q59258133,Olga Plojhar Bursíková
+Q1358861,Martin Bursík,partner,Q6376025,Kateřina Jacques
+Q1358861,Martin Bursík,spouse,Q6376025,Kateřina Jacques
+Q1374371,Jaroslav Lobkowicz,child,Q75380418,Vladimir Prinz von Lobkowicz
+Q1374371,Jaroslav Lobkowicz,child,Q75380419,Jaroslav Prince of Lobkowicz
+Q1374371,Jaroslav Lobkowicz,child,Q75380421,Philippe Prinz von Lobkowicz
+Q1374371,Jaroslav Lobkowicz,father,Q15124033,Jaroslav Claude of Lobkowicz
+Q1374371,Jaroslav Lobkowicz,mother,Q55807497,Gabriela Korff-Schmising-Kerssenbrock
+Q1374371,Jaroslav Lobkowicz,sibling,Q10857519,Filip Zdeněk Lobkowicz
+Q1374371,Jaroslav Lobkowicz,sibling,Q324042,František Lobkowicz
+Q1374371,Jaroslav Lobkowicz,sibling,Q65938587,Polyxena Czerninová
+Q1374371,Jaroslav Lobkowicz,spouse,Q75380416,Elizabeth de Vienne
+Q14806410,Mikuláš Ferjenčík,relative,Q9021077,Mikuláš Ferjenčík
+Q14806410,Mikuláš Ferjenčík,sibling,Q42311106,Olga Richterová
+Q15057976,Svatopluk Němeček,spouse,Q54801007,Zdenka Němečková Crkvenjaš
+Q15220321,Jiří Holeček,father,Q940997,Jiří Holeček
+Q15249537,Marek Černoch,father,Q1729212,Karel Černoch
+Q15249537,Marek Černoch,sibling,Q12058717,Tereza Černochová
+Q15249893,Petr Adam,father,Q10389200,Vojtěch Adam
+Q155880,Mirek Topolánek,godparent,Q12025484,Jiří Schwarz
+Q155880,Mirek Topolánek,spouse,Q3265306,Lucie Talmanová
+Q155880,Mirek Topolánek,spouse,Q7155913,Pavla Topolánková
+Q15728945,Zdeněk Seidl,relative,Q97042006,Alice Seidlová
+Q1592224,Tomáš Töpfer,child,Q3295116,Marta Topferova
+Q16161682,Miloslav Ludvík,spouse,Q66085346,Renata Ludvíková
+Q161671,Jiří Paroubek,spouse,Q12045150,Petra Paroubková
+Q161671,Jiří Paroubek,spouse,Q95152778,Zuzana Paroubková
+Q165114,Marek Benda,father,Q2427640,Václav Benda
+Q165114,Marek Benda,mother,Q50493867,Kamila Bendová
+Q17138368,František Kinský,father,Q12026214,Josef Kinský
+Q17138368,František Kinský,sibling,Q15712630,Antonín Kinský
+Q17277123,Roman Prymula,child,Q96064732,Karolína Prymulová
+Q17541710,Zuzana Baudyšová,child,Q10853761,Antonín Baudyš
+Q17541710,Zuzana Baudyšová,spouse,Q608235,Antonín Baudyš
+Q18327739,Jan Čižinský,mother,Q57414702,Helena Čižinská
+Q18327739,Jan Čižinský,sibling,Q57271762,Pavel Čižinský
+Q18564417,Dan Ťok,relative,Q26202492,Tomáš Ťok
+Q193675,Jan Fischer,child,Q12022519,Jan Fischer
+Q193675,Jan Fischer,child,Q51181622,Jakub Fischer
+Q193675,Jan Fischer,father,Q15075491,Otto Fischer
+Q193675,Jan Fischer,spouse,Q11774174,Dana Fischerová
+Q19602636,Robert Pelikán,father,Q21596732,Dragutin Pelikán
+Q19602636,Robert Pelikán,mother,Q1672475,Irena Pelikánova
+Q19602636,Robert Pelikán,sibling,Q21704587,Petr Pelikán
+Q22035584,Vít Rakušan,father,Q12023023,Jan Rakušan
+Q2223090,Tomio Okamura,sibling,Q12042947,Osamu Okamura
+Q2223090,Tomio Okamura,sibling,Q29346164,Hayato Okamura
+Q231231,Zuzana Roithová,spouse,Q95183454,Jan Roith
+Q2370616,Svatopluk Karásek,sibling,Q26770642,Oldřich Karásek
+Q2382175,Táňa Fischerová,father,Q12022520,Jan Fišer
+Q2382175,Táňa Fischerová,partner,Q3563122,Petr Skoumal
+Q254985,Vladimír Remek,father,Q12027068,Jozef Remek
+Q255434,Radek John,father,Q11773742,Ctirad John
+Q255434,Radek John,spouse,Q8072970,Zlata Adamovská
+Q26391559,Marek Hilšer,spouse,Q104891184,Monika Hilšerová
+Q264133,Augustin Bubník,child,Q17484887,Gustav Bubník
+Q280578,Michal Lobkowicz,child,Q75805710,Tobias Prinz von Lobkowicz
+Q280578,Michal Lobkowicz,child,Q75806070,Christoph Prinz von Lobkowicz
+Q280578,Michal Lobkowicz,father,Q11775037,František Lobkowicz
+Q280578,Michal Lobkowicz,mother,Q75377317,Hanna Novak
+Q280578,Michal Lobkowicz,spouse,Q75377321,Lucie Navratilova
+Q28767783,Ondřej Kolář,father,Q7178537,Petr Kolář
+Q287879,Přemysl Sobotka,spouse,Q105103019,Radmila Sobotková
+Q29021057,Věslav Michalik,spouse,Q109674931,Hana Michaliková
+Q29032,Miloš Zeman,child,Q11774424,David Zeman
+Q29032,Miloš Zeman,child,Q12028967,Kateřina Zemanová
+Q29032,Miloš Zeman,spouse,Q43382139,Blanka Zemanová
+Q29032,Miloš Zeman,spouse,Q6769979,Ivana Zemanová
+Q29346164,Hayato Okamura,sibling,Q12042947,Osamu Okamura
+Q29346164,Hayato Okamura,sibling,Q2223090,Tomio Okamura
+Q29951594,Alena Schillerová,child,Q70872097,Petra Rusňáková
+Q29951594,Alena Schillerová,relative,Q27685655,David Rusňák
+Q30184731,Marek Výborný,father,Q12037503,Miloslav Výborný
+Q3265306,Lucie Talmanová,spouse,Q155880,Mirek Topolánek
+Q326629,Vítězslav Jandák,partner,Q10859536,Libuše Geprtová
+Q32777,Vladimír Špidla,father,Q11986007,Václav Špidla
+Q32777,Vladimír Špidla,spouse,Q11898836,Viktorie Špidlová
+Q3316142,Miroslav Grebeníček,father,Q10779463,Alois Grebeníček
+Q3377548,Petr Fiala,spouse,Q110236154,Jana Fialová
+Q3377550,Petr Bendl,spouse,Q12058284,Tamara Kotvalová
+Q33833057,Marie Chatardová,spouse,Q61730777,Benoît Chatard
+Q348896,Stanislav Gross,child,Q95149181,Natálie Grossová
+Q348896,Stanislav Gross,spouse,Q8082927,Šárka Grossová
+Q3490643,Jaroslava Moserová,sibling,Q17580308,Božena Moserová
+Q3491424,Bedřich Moldan,relative,Q6279690,Josef Beneš
+Q3491424,Bedřich Moldan,spouse,Q11812726,Dobrava Moldanová
+Q3503711,Václav Riedlbauch,spouse,Q87413264,Gabriela Riedlbauchová
+Q3561901,Vladimír Mlynář,father,Q169020,Zdeněk Mlynář
+Q3561901,Vladimír Mlynář,mother,Q7336548,Rita Klímová
+Q3561901,Vladimír Mlynář,relative,Q16944931,Stanislav Budín
+Q3561901,Vladimír Mlynář,relative,Q95069468,Hana Budínová
+Q3561901,Vladimír Mlynář,sibling,Q12037372,Milena Bartlová
+Q35786,Petr Nečas,spouse,Q12048599,Radka Nečasová
+Q35786,Petr Nečas,spouse,Q12425698,Jana Nečasová
+Q36233,Václav Havel,father,Q5107973,Václav Maria Havel
+Q36233,Václav Havel,mother,Q18676875,Božena Vavrečková
+Q36233,Václav Havel,relative,Q4131043,Vácslav Havel
+Q36233,Václav Havel,relative,Q5107449,Dagmar Havlová
+Q36233,Václav Havel,relative,Q5107803,Hugo Vavrečka
+Q36233,Václav Havel,sibling,Q3596070,Ivan M. Havel
+Q36233,Václav Havel,spouse,Q3510461,Olga Havlová
+Q36233,Václav Havel,spouse,Q55729,Dagmar Havlová
+Q367435,Vít Bárta,spouse,Q12028941,Kateřina Klasnová
+Q375208,Jiří Dienstbier,child,Q133947,Jiří Dienstbier Jr.
+Q375208,Jiří Dienstbier,father,Q78915609,Jiří Dienstbier
+Q42311106,Olga Richterová,relative,Q9021077,Mikuláš Ferjenčík
+Q42311106,Olga Richterová,sibling,Q14806410,Mikuláš Ferjenčík
+Q4845845,Jan Ruml,father,Q11727272,Jiří Ruml
+Q52276807,Markéta Vaňková,father,Q13569658,Petr Průcha
+Q54801007,Zdenka Němečková Crkvenjaš,spouse,Q15057976,Svatopluk Němeček
+Q55594748,Jana Maláčová,spouse,Q30546529,Aleš Chmelař
+Q564004,Anna Šabatová,child,Q38825122,Saša Uhlová
+Q564004,Anna Šabatová,father,Q3508125,Jaroslav Šabata
+Q564004,Anna Šabatová,spouse,Q1718355,Petr Uhl
+Q57434,Václav Klaus,child,Q6434601,Václav Klaus Jr.
+Q57434,Václav Klaus,child,Q90255424,Jan Klaus
+Q57434,Václav Klaus,spouse,Q3497271,Livia Klausová
+Q58195,Karel Schwarzenberg,child,Q45940244,Johannes Nepomucenus Schwarzenberg
+Q58195,Karel Schwarzenberg,child,Q45941150,Anna Carolina Schwarzenberg
+Q58195,Karel Schwarzenberg,father,Q1964821,Karel VI of Schwarzenberg
+Q58195,Karel Schwarzenberg,mother,Q10853732,Antonia Schwarzenberg
+Q58195,Karel Schwarzenberg,relative,Q12028572,Karel V of Schwarzenberg
+Q58195,Karel Schwarzenberg,relative,Q12108720,Karl Emil Fürstenberg
+Q58195,Karel Schwarzenberg,relative,Q20169340,Maria Matilda Festetics de Tolna
+Q58195,Karel Schwarzenberg,relative,Q20853552,Eleanor Clam-Gallas
+Q58195,Karel Schwarzenberg,sibling,Q96788808,Marie Eleonore von Bredow
+Q58195,Karel Schwarzenberg,spouse,Q5834117,Therese Schwarzenberg
+Q58195,Karel Schwarzenberg,spouse,Q5834117,Therese Schwarzenberg
+Q6097220,Ivan Pilip,spouse,Q88196550,Lucie Pilipová
+Q62005632,David Smoljak,father,Q1800016,Ladislav Smoljak
+Q62005632,David Smoljak,sibling,Q64952302,Filip Smoljak
+Q630367,Jan Kasl,spouse,Q19602747,Terezie Kaslová
+Q6376025,Kateřina Jacques,child,Q103702095,Sebastian Jacques
+Q6376025,Kateřina Jacques,father,Q79657810,Otakar Pajer
+Q6376025,Kateřina Jacques,partner,Q1358861,Martin Bursík
+Q6376025,Kateřina Jacques,relative,Q11878748,Emma Smetana
+Q6376025,Kateřina Jacques,relative,Q12023037,Jan Roth
+Q6376025,Kateřina Jacques,relative,Q47451269,Alan Pajer
+Q6376025,Kateřina Jacques,sibling,Q6900210,Monika MacDonagh-Pajerová
+Q6376025,Kateřina Jacques,sibling,Q77954454,Oskar Pajer
+Q6376025,Kateřina Jacques,spouse,Q1358861,Martin Bursík
+Q6434601,Václav Klaus Jr.,child,Q104100239,Kateřina Klausová
+Q6434601,Václav Klaus Jr.,child,Q104100286,Eliška Klausová
+Q6434601,Václav Klaus Jr.,child,Q104100313,Vojtěch Klaus
+Q6434601,Václav Klaus Jr.,child,Q104100340,Jakub Klaus
+Q6434601,Václav Klaus Jr.,father,Q57434,Václav Klaus
+Q6434601,Václav Klaus Jr.,mother,Q3497271,Livia Klausová
+Q6695637,Luboš Dobrovský,child,Q21012415,Jan Dobrovský
+Q6776343,Martin Palouš,father,Q12048562,Radim Palouš
+Q6776343,Martin Palouš,sibling,Q26804596,Jan Palouš
+Q6835577,Michael Žantovský,mother,Q18006515,Hana Žantovská
+Q685676,Petr Pithart,relative,Q84466271,Anežka Pithartová
+Q696669,Cyril Svoboda,relative,Q12018532,Gustav Heidler
+Q696669,Cyril Svoboda,sibling,Q95463992,Josef Svoboda
+Q696669,Cyril Svoboda,spouse,Q105121421,Věnceslava Svobodová
+Q709714,Pavel Ploc,father,Q3898303,Pavel Ploc
+Q712430,Pavel Bém,spouse,Q105122087,Radmila Bémová
+Q7155774,Pavel Svoboda,father,Q11219373,Bohumil Svoboda
+Q7155774,Pavel Svoboda,mother,Q62741946,Jarmila Šrámková
+Q7155774,Pavel Svoboda,sibling,Q62742092,Tomáš Svoboda
+Q7178537,Petr Kolář,child,Q28767783,Ondřej Kolář
+Q7178537,Petr Kolář,partner,Q21395958,Světlana Witowská
+Q722971,Jiří Šlégr,father,Q1435834,Jiří Bubla
+Q722971,Jiří Šlégr,spouse,Q6696982,Lucie Králová
+Q80333898,Michael Kašpar,sibling,Q12034365,Lukáš Kašpar
+Q890971,Bohuslav Sobotka,spouse,Q15640096,Olga Sobotková
+Q939484,Alexandr Vondra,partner,Q11880159,Veronika Vrecionová
+Q939539,Miroslav Kalousek,spouse,Q80814008,Radka Kalousková
+Q942579,Richard Falbr,father,Q66132004,Richard Falber
+Q95479475,Michel Fleischmann,father,Q95149744,Ivo Fleischmann
+Q95479475,Michel Fleischmann,mother,Q19932748,Staša Fleischmannová
+Q95479475,Michel Fleischmann,sibling,Q95371026,Petr Fleischmann
+Q95479475,Michel Fleischmann,spouse,Q12028951,Kateřina Lojdová
+Q96144643,František Talíř,relative,Q8311967,Jaromír Talíř
