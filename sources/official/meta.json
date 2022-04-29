@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "the Czech Republic",
+      "id": "Q213"
+    },
+    "cabinet": {
+      "id": "Q109453202",
+      "start": "2021-12-17",
+      "parent": "Q5015587"
+    },
+    "source": {
+        "url":   "https://www.vlada.cz/en/vlada/",
+        "title": "Members of the Government | Government of the Czech Republic",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/czech-ministers"
+}
