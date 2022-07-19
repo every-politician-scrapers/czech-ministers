@@ -1,0 +1,341 @@
+{
+  "title": "Mikuláš Bek",
+  "pageID": 69312846,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "Members of the Senate of the Czech Republic",
+    "Mayors and Independents Senators",
+    "Government ministers of the Czech Republic",
+    "Mayors and Independents Government ministers",
+    "People from Šternberk",
+    "Masaryk University alumni",
+    "Charles University alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mikuláš Bek (born 22 April 1964) is a Czech musicologist and politician who has been serving as Minister of EU Affairs in Petr Fiala's Cabinet since December 2021.",
+              "links": [
+                {
+                  "text": "musicologist",
+                  "type": "internal",
+                  "page": "Musicology"
+                },
+                {
+                  "type": "internal",
+                  "page": "Petr Fiala's Cabinet"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mikuláš Bek"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Czech teacher, musicologist and rector of Masaryk University",
+          "template": "short description"
+        },
+        {
+          "year": "1964",
+          "month": "4",
+          "day": "22",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "Masaryk University",
+            "Charles University in Prague"
+          ],
+          "template": "ubl"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Mikuláš Bek"
+          },
+          "image": {
+            "text": "Mikuláš Bek 2019 crop.jpg"
+          },
+          "office": {
+            "text": "Minister for European Affairs",
+            "links": [
+              {
+                "text": "Minister for European Affairs",
+                "type": "internal",
+                "page": "Petr Fiala's Cabinet"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Petr Fiala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petr Fiala"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "17 December 2021"
+          },
+          "predecessor": {
+            "text": "Juraj Chmiel (2010)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juraj Chmiel"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Senator from Brno",
+            "links": [
+              {
+                "text": "Senator",
+                "type": "internal",
+                "page": "Senate of the Czech Republic"
+              },
+              {
+                "type": "internal",
+                "page": "Brno"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "13 October 2018"
+          },
+          "predecessor1": {
+            "text": "Eliška Wagnerová",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eliška Wagnerová"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 22, 1964"
+          },
+          "birth_place": {
+            "text": "Šternberk, Czechoslovakia (now Czech Republic)",
+            "links": [
+              {
+                "text": "Šternberk",
+                "type": "internal",
+                "page": "Šternberk"
+              },
+              {
+                "type": "internal",
+                "page": "Czechoslovakia"
+              },
+              {
+                "type": "internal",
+                "page": "Czech Republic"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Masaryk University\n\nCharles University in Prague"
+          },
+          "party": {
+            "text": "Independent (nominated by Mayors and Independents)",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              },
+              {
+                "type": "internal",
+                "page": "Mayors and Independents"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "musicologist",
+            "links": [
+              {
+                "text": "musicologist",
+                "type": "internal",
+                "page": "Musicology"
+              }
+            ]
+          },
+          "website": {
+            "text": "mikulasbek.cz",
+            "links": [
+              {
+                "text": "mikulasbek.cz",
+                "type": "external",
+                "site": "http://www.mikulasbek.cz"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Zeman to name Petr Fiala prime minister next Friday",
+          "url": "https://english.radio.cz/zeman-name-petr-fiala-prime-minister-next-friday-8734290",
+          "access-date": "19 November 2021",
+          "work": "Radio Prague International",
+          "date": "17 November 2021",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "first": "Lili",
+          "last": "Bayer",
+          "date": "23 June 2022",
+          "url": "https://www.politico.eu/article/czech-presidency-council-of-the-eu-pojar-bek-jourova-hrda-charanzova-zahradil/",
+          "title": "The Czechs Europe needs to know",
+          "website": "Politico Europe",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "From 2011 to 2019 he served as rector of Masaryk University in Brno, succeeding his friend and future cabinet superior Petr Fiala.",
+              "links": [
+                {
+                  "text": "rector",
+                  "type": "internal",
+                  "page": "Rector (academia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Masaryk University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brno"
+                },
+                {
+                  "type": "internal",
+                  "page": "Petr Fiala"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Since 2018 Bek has been a member of the Czech Senate representing the Brno-City electoral district, as a nominee of the Mayors and Independents.",
+              "links": [
+                {
+                  "text": "Czech Senate",
+                  "type": "internal",
+                  "page": "Senate of the Czech Republic"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mayors and Independents"
+                }
+              ]
+            },
+            {
+              "text": "In the Senate, he chaired the Committee on EU Affairs."
+            },
+            {
+              "text": "In November 2021, he stated that the Visegrad 4 is overrated and that he wants to focus on cooperation with Germany and the Western European countries.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Visegrad 4"
+                },
+                {
+                  "type": "internal",
+                  "page": "Germany"
+                },
+                {
+                  "text": "Western European",
+                  "type": "internal",
+                  "page": "Western Europe"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Nový ministr pro Evropu: Visegrádská čtyřka se přeceňuje, říká Bek",
+          "url": "https://zpravy.aktualne.cz/zahranici/novy-pan-evropa-bek-nebudu-sazet-na-visegrad/r~45f7e3d8484811ec9106ac1f6b220ee8/",
+          "access-date": "19 November 2021",
+          "work": "Aktuálně.cz",
+          "date": "18 November 2021",
+          "language": "cs",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-aca"
+        },
+        {
+          "before": "Petr Fiala",
+          "template": "s-bef"
+        },
+        {
+          "title": "Rector of Masaryk University",
+          "years": "2011–2019",
+          "template": "s-ttl"
+        },
+        {
+          "text": "Martin Bareš",
+          "lan1": "cs",
+          "template": "ill"
+        },
+        {
+          "after": "Martin Bareš",
+          "template": "s-aft"
+        },
+        {
+          "template": "czech cabinet"
+        },
+        {
+          "template": "fiala's cabinet"
+        }
+      ]
+    }
+  ]
+}

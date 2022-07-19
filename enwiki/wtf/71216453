@@ -1,0 +1,259 @@
+{
+  "title": "Vladimír Balaš",
+  "pageID": 71216453,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "People from Prostějov",
+    "Education ministers of the Czech Republic",
+    "Charles University alumni",
+    "Czech educators",
+    "Mayors and Independents Government ministers",
+    "Members of the Chamber of Deputies of the Czech Republic (2021–2025)",
+    "20th-century Czech lawyers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Vladimír Balaš (born 20 April 1959) is a Czech politician, lawyer and university teacher.",
+              "links": [
+                {
+                  "text": "Czech",
+                  "type": "internal",
+                  "page": "Czech Republic"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "lawyer",
+                  "type": "internal",
+                  "page": "lawyer"
+                },
+                {
+                  "text": "university teacher",
+                  "type": "internal",
+                  "page": "Academic personnel"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Vladimír Balaš"
+                ]
+              }
+            },
+            {
+              "text": "Since July 2022, he is the Minister of Education, Youth and Sports of the Czech Republic in the Cabinet of Petr Fiala.",
+              "links": [
+                {
+                  "text": "Minister of Education, Youth and Sports of the Czech Republic",
+                  "type": "internal",
+                  "page": "Ministry of Education, Youth and Sports (Czech Republic)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet of Petr Fiala"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "langcode": "cs",
+          "otherarticle": "Vladimír Balaš",
+          "date": "July 2022",
+          "template": "expand language"
+        },
+        {
+          "year": "1959",
+          "month": "4",
+          "day": "20",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Vladimír Balaš"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament",
+                "anchor": "Czech Republic"
+              }
+            ]
+          },
+          "office": {
+            "text": "18th Minister of Education, Youth and Sports",
+            "links": [
+              {
+                "text": "Minister of Education, Youth and Sports",
+                "type": "internal",
+                "page": "Ministry of Education, Youth and Sports (Czech Republic)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Petr Fiala",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petr Fiala"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "29 June 2022"
+          },
+          "predecessor": {
+            "text": "Petr Gazdík",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Petr Gazdík"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the Chamber of Deputies",
+            "links": [
+              {
+                "text": "Chamber of Deputies",
+                "type": "internal",
+                "page": "Chamber of Deputies of the Czech Republic"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "9 October 2021"
+          },
+          "birth_date": {
+            "text": "April 20, 1959"
+          },
+          "birth_place": {
+            "text": "Prostějov, Czechoslovakia (now Czech Republic)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prostějov"
+              },
+              {
+                "type": "internal",
+                "page": "Czechoslovakia"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Lawyer, University teacher",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lawyer"
+              },
+              {
+                "type": "internal",
+                "page": "University teacher"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Charles University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Charles University"
+              }
+            ]
+          },
+          "party": {
+            "text": "Mayors and Independents (2014–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mayors and Independents"
+              }
+            ]
+          },
+          "otherparty": {
+            "text": "Pirates and Mayors (2020–present)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pirates and Mayors"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Prague",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Prague"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.vlada.cz/en/clenove-vlady/vladimir-balas-197613/",
+          "title": "Government of the Czech Republic profile",
+          "date": "29 June 2022",
+          "publisher": "Government of the Czech Republic",
+          "language": "English",
+          "accessdate": "3 July 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Balaš se ujal funkce ministra školství. Chce navázat na práci svých předchůdců",
+          "url": "https://zpravy.aktualne.cz/domaci/balas-se-ujal-funkce-ministra-skolstvi/r~8d8f59a6f91911ecbe29ac1f6b220ee8/",
+          "access-date": "3 July 2022",
+          "work": "Aktuálně.cz",
+          "date": "1 July 2022",
+          "language": "cs",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "czech cabinet"
+        },
+        {
+          "template": "cz-eys-ministers"
+        },
+        {
+          "template": "fiala's cabinet"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "czechrepublic-politician-stub"
+        }
+      ]
+    }
+  ]
+}
