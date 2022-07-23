@@ -1441,9 +1441,6 @@
       "depth": 0,
       "paragraphs": [
         {
-          "sentences": []
-        },
-        {
           "sentences": [
             {
               "text": "Fiala holds conservative  and soft Eurosceptic views, and he opposes political extremism and populism.",
@@ -1569,13 +1566,6 @@
         }
       ],
       "images": [
-        {
-          "file": "File:Brno-demonstrace-proti-Zdeňku-Ondráčkovi-v-čele-komise-pro-GIBS2018f.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Brno-demonstrace-proti-Zde%C5%88ku-Ondr%C3%A1%C4%8Dkovi-v-%C4%8Dele-komise-pro-GIBS2018f.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Brno-demonstrace-proti-Zde%C5%88ku-Ondr%C3%A1%C4%8Dkovi-v-%C4%8Dele-komise-pro-GIBS2018f.jpg",
-          "caption": "Fiala giving a speech in 2018",
-          "links": []
-        },
         {
           "file": "File:Volodymyr_Zelenskyy_met_with_the_heads_of_governments_of_Poland,_the_Czech_Republic_and_Slovenia_in_Kyiv._(51941490085).jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Volodymyr_Zelenskyy_met_with_the_heads_of_governments_of_Poland%2C_the_Czech_Republic_and_Slovenia_in_Kyiv._(51941490085).jpg?width=300",
@@ -1730,11 +1720,13 @@
         {
           "sentences": [
             {
-              "text": "In October 2015, Fiala called for a military invasion by Western ground forces in the Middle East, stating, \"We will not solve the problem of migration and destabilization of the Middle East and North Africa unless we take military action.\""
-            },
-            {
-              "text": "On the other hand, he opposed Russian involvement in the war against Islamic State.",
+              "text": "[[File:Members discussed priorities of the Czech Presidency with Prime Minister Fiala - 52197928418.jpg|thumb|Fiala addresses the European Parliament], July 2022In October 2015, Fiala called for a military invasion by Western ground forces in the Middle East, stating, \"We will not solve the problem of migration and destabilization of the Middle East and North Africa unless we take military action.\" On the other hand, he opposed Russian involvement in the war against Islamic State.",
               "links": [
+                {
+                  "text": "European Parliament], July 2022In",
+                  "type": "internal",
+                  "page": "European Parliament], July 2022"
+                },
                 {
                   "type": "internal",
                   "page": "Islamic State"
@@ -1874,15 +1866,6 @@
               ]
             }
           ]
-        }
-      ],
-      "images": [
-        {
-          "file": "File:Members_discussed_priorities_of_the_Czech_Presidency_with_Prime_Minister_Fiala_-_52197928418.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Members_discussed_priorities_of_the_Czech_Presidency_with_Prime_Minister_Fiala_-_52197928418.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Members_discussed_priorities_of_the_Czech_Presidency_with_Prime_Minister_Fiala_-_52197928418.jpg",
-          "caption": "Fiala speaks to the European Parliament in 2022",
-          "links": []
         }
       ],
       "references": [
